@@ -1,0 +1,3241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foxml:digitalObject PID="uofm:compoundHighResImage" VERSION="1.1" xmlns:foxml="info:fedora/fedora-system:def/foxml#"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="info:fedora/fedora-system:def/foxml# http://www.fedora.info/definitions/1/0/foxml1-1.xsd">
+  <foxml:objectProperties>
+    <foxml:property NAME="info:fedora/fedora-system:def/model#state" VALUE="Active"/>
+    <foxml:property NAME="info:fedora/fedora-system:def/model#label" VALUE="Compound High Resolution Image"/>
+    <foxml:property NAME="info:fedora/fedora-system:def/model#ownerId" VALUE="fedoraAdmin"/>
+    <foxml:property NAME="info:fedora/fedora-system:def/model#createdDate" VALUE="2010-09-01T21:45:12.808Z"/>
+    <foxml:property NAME="info:fedora/fedora-system:def/view#lastModifiedDate" VALUE="2010-12-07T18:53:37.509Z"/>
+  </foxml:objectProperties>
+  <foxml:datastream CONTROL_GROUP="X" ID="AUDIT" STATE="A" VERSIONABLE="false">
+    <foxml:datastreamVersion CREATED="2010-09-01T21:45:12.808Z"
+      FORMAT_URI="info:fedora/fedora-system:format/xml.fedora.audit" ID="AUDIT.0" LABEL="Audit Trail for this object" MIMETYPE="text/xml">
+      <foxml:xmlContent>
+        <audit:auditTrail xmlns:audit="info:fedora/fedora-system:def/audit#">
+          <audit:record ID="AUDREC1">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>ingest</audit:action>
+            <audit:componentID/>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-09-01T21:45:12.808Z</audit:date>
+            <audit:justification>Fedora Object Ingested</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC2">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>addDatastream</audit:action>
+            <audit:componentID>RELS-EXT</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-09-01T21:45:14.368Z</audit:date>
+            <audit:justification>Ingested object RELS-EXT</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC3">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>RELS-EXT</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-09-01T21:45:14.467Z</audit:date>
+            <audit:justification>Modified by Islandora API.</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC4">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>addDatastream</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-09-01T21:45:14.877Z</audit:date>
+            <audit:justification>Ingested object ISLANDORACM</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC5">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-09-01T21:46:17.427Z</audit:date>
+            <audit:justification>Modified by Islandora API.</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC6">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-09-01T21:46:32.529Z</audit:date>
+            <audit:justification>Modified by Islandora API.</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC7">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-09-01T21:46:42.281Z</audit:date>
+            <audit:justification>Modified by Islandora API.</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC8">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-09-01T21:46:52.577Z</audit:date>
+            <audit:justification>Modified by Islandora API.</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC9">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-09-01T21:47:15.302Z</audit:date>
+            <audit:justification>Modified by Islandora API.</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC10">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>fedoraAdmin</audit:responsibility>
+            <audit:date>2010-09-01T21:48:50.724Z</audit:date>
+            <audit:justification/>
+          </audit:record>
+          <audit:record ID="AUDREC11">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-09-01T21:50:25.898Z</audit:date>
+            <audit:justification>Modified by Islandora API.</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC12">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-09-01T21:58:33.878Z</audit:date>
+            <audit:justification>Modified by Islandora API.</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC13">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-09-01T21:58:35.491Z</audit:date>
+            <audit:justification>Modified by Islandora API.</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC14">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-09-01T21:58:36.804Z</audit:date>
+            <audit:justification>Modified by Islandora API.</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC15">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-09-01T21:58:38.046Z</audit:date>
+            <audit:justification>Modified by Islandora API.</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC16">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-09-01T21:58:42.023Z</audit:date>
+            <audit:justification>Modified by Islandora API.</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC17">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-09-01T22:01:04.283Z</audit:date>
+            <audit:justification>Modified by Islandora API.</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC18">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-09-01T22:11:14.707Z</audit:date>
+            <audit:justification>Modified by Islandora API.</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC19">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>addDatastream</audit:action>
+            <audit:componentID>WORKFLOW_TMPL</audit:componentID>
+            <audit:responsibility>fedoraAdmin</audit:responsibility>
+            <audit:date>2010-09-01T22:43:43.130Z</audit:date>
+            <audit:justification>DatastreamsPane generated this logMessage.</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC20">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-09-03T20:52:11.072Z</audit:date>
+            <audit:justification>Modified by Islandora API.</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC21">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>RELS-EXT</audit:componentID>
+            <audit:responsibility>fedoraAdmin</audit:responsibility>
+            <audit:date>2010-09-09T21:53:47.871Z</audit:date>
+            <audit:justification/>
+          </audit:record>
+          <audit:record ID="AUDREC22">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>RELS-EXT</audit:componentID>
+            <audit:responsibility>fedoraAdmin</audit:responsibility>
+            <audit:date>2010-09-09T21:56:24.348Z</audit:date>
+            <audit:justification/>
+          </audit:record>
+          <audit:record ID="AUDREC23">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>RELS-EXT</audit:componentID>
+            <audit:responsibility>fedoraAdmin</audit:responsibility>
+            <audit:date>2010-09-09T22:03:46.665Z</audit:date>
+            <audit:justification/>
+          </audit:record>
+          <audit:record ID="AUDREC24">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-09-13T18:13:19.112Z</audit:date>
+            <audit:justification>Modified by Islandora API.</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC25">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-09-13T18:13:28.027Z</audit:date>
+            <audit:justification>Modified by Islandora API.</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC26">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-09-13T18:13:37.991Z</audit:date>
+            <audit:justification>Modified by Islandora API.</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC27">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>purgeDatastream</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-09-13T18:14:58.954Z</audit:date>
+            <audit:justification>Purged datastream using Islandora API . . . Purged datastream (ID=ISLANDORACM), versions ranging from 2010-09-13T13:13:19.112Z to the end of time.  This resulted in the permanent removal of 3 datastream version(s) (2010-09-13T13:13:19.112Z, 2010-09-13T13:13:28.027Z, 2010-09-13T13:13:37.991Z) and all associated audit records.</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC28">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>ingest</audit:action>
+            <audit:componentID/>
+            <audit:responsibility>fedoraAdmin</audit:responsibility>
+            <audit:date>2010-09-13T22:52:09.120Z</audit:date>
+            <audit:justification>Ingested from local file /home/umroymr/export/uofm_compoundHighResImage.xml</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC29">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>RELS-EXT</audit:componentID>
+            <audit:responsibility>fedoraAdmin</audit:responsibility>
+            <audit:date>2010-09-14T00:38:06.203Z</audit:date>
+            <audit:justification/>
+          </audit:record>
+          <audit:record ID="AUDREC30">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-09-21T03:46:37.626Z</audit:date>
+            <audit:justification>Modified by Islandora API.</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC31">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-09-21T03:46:45.329Z</audit:date>
+            <audit:justification>Modified by Islandora API.</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC32">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-09-21T03:47:46.898Z</audit:date>
+            <audit:justification>Modified by Islandora API.</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC33">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>RELS-EXT</audit:componentID>
+            <audit:responsibility>fedoraAdmin</audit:responsibility>
+            <audit:date>2010-09-21T13:07:39.768Z</audit:date>
+            <audit:justification/>
+          </audit:record>
+          <audit:record ID="AUDREC34">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>WORKFLOW_TMPL</audit:componentID>
+            <audit:responsibility>fedoraAdmin</audit:responsibility>
+            <audit:date>2010-10-08T18:57:28.571Z</audit:date>
+            <audit:justification/>
+          </audit:record>
+          <audit:record ID="AUDREC35">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>WORKFLOW_TMPL</audit:componentID>
+            <audit:responsibility>fedoraAdmin</audit:responsibility>
+            <audit:date>2010-10-08T18:57:32.320Z</audit:date>
+            <audit:justification/>
+          </audit:record>
+          <audit:record ID="AUDREC36">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>WORKFLOW_TMPL</audit:componentID>
+            <audit:responsibility>fedoraAdmin</audit:responsibility>
+            <audit:date>2010-10-08T22:17:07.326Z</audit:date>
+            <audit:justification/>
+          </audit:record>
+          <audit:record ID="AUDREC37">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-10-26T22:52:05.060Z</audit:date>
+            <audit:justification>Modified by Islandora API</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC38">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-10-26T22:52:25.047Z</audit:date>
+            <audit:justification>Modified by Islandora API</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC39">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-10-27T00:15:17.642Z</audit:date>
+            <audit:justification>Modified by Islandora API</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC40">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-10-27T00:15:29.349Z</audit:date>
+            <audit:justification>Modified by Islandora API</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC41">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-11-18T23:27:53.251Z</audit:date>
+            <audit:justification>Modified by Islandora API</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC42">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-11-18T23:28:00.119Z</audit:date>
+            <audit:justification>Modified by Islandora API</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC43">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-11-18T23:28:05.820Z</audit:date>
+            <audit:justification>Modified by Islandora API</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC44">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-11-18T23:28:11.469Z</audit:date>
+            <audit:justification>Modified by Islandora API</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC45">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-11-21T21:21:02.618Z</audit:date>
+            <audit:justification>Modified by Islandora API</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC46">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>WORKFLOW_TMPL</audit:componentID>
+            <audit:responsibility>fedoraAdmin</audit:responsibility>
+            <audit:date>2010-12-07T18:53:37.509Z</audit:date>
+            <audit:justification/>
+          </audit:record>
+        </audit:auditTrail>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+  </foxml:datastream>
+  <foxml:datastream CONTROL_GROUP="X" ID="DC" STATE="A" VERSIONABLE="true">
+    <foxml:datastreamVersion CREATED="2010-09-01T21:45:12.808Z" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/"
+      ID="DC1.0" LABEL="Dublin Core Record for this object" MIMETYPE="text/xml" SIZE="408">
+      <foxml:xmlContent>
+        <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Compound High Resolution Image</dc:title>
+          <dc:identifier>uofm:compoundHighResImage</dc:identifier>
+        </oai_dc:dc>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+  </foxml:datastream>
+  <foxml:datastream CONTROL_GROUP="X" ID="RELS-EXT" STATE="A" VERSIONABLE="true">
+    <foxml:datastreamVersion CREATED="2010-09-01T21:45:14.368Z" ID="RELS-EXT.0"
+      LABEL="Fedora object-to-object relationship metadata" MIMETYPE="text/xml" SIZE="182">
+      <foxml:xmlContent>
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+          <rdf:Description rdf:about="info:fedora/uofm:compoundHighResImage"/>
+        </rdf:RDF>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-09-01T21:45:14.467Z" ID="RELS-EXT.1"
+      LABEL="Fedora Object-to-Object Relationship Metadata" MIMETYPE="text/xml" SIZE="369">
+      <foxml:xmlContent>
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+          <rdf:Description rdf:about="info:fedora/uofm:compoundHighResImage">
+            <fedora-model:hasModel rdf:resource="info:fedora/fedora-system:ContentModel-3.0" xmlns:fedora-model="info:fedora/fedora-system:def/model#"/>
+          </rdf:Description>
+        </rdf:RDF>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-09-09T21:53:47.871Z" ID="RELS-EXT.2"
+      LABEL="Fedora Object-to-Object Relationship Metadata" MIMETYPE="text/xml" SIZE="455">
+      <foxml:xmlContent>
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+          <rdf:Description rdf:about="info:fedora/uofm:compoundHighResImage">
+            <hasModel rdf:resource="info:fedora/fedora-system:ContentModel-3.0" xmlns="info:fedora/fedora-system:def/model#"/>
+            <hasService rdf:resource="info:fedora/ilives:jp2Sdef" xmlns="info:fedora/fedora-system:def/model#"/>
+          </rdf:Description>
+        </rdf:RDF>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-09-09T21:56:24.348Z" ID="RELS-EXT.3"
+      LABEL="Fedora Object-to-Object Relationship Metadata" MIMETYPE="text/xml" SIZE="584">
+      <foxml:xmlContent>
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+          <rdf:Description rdf:about="info:fedora/uofm:compoundHighResImage">
+            <hasModel rdf:resource="info:fedora/fedora-system:ContentModel-3.0" xmlns="info:fedora/fedora-system:def/model#"/>
+            <hasService rdf:resource="info:fedora/ilives:jp2Sdef" xmlns="info:fedora/fedora-system:def/model#"/>
+            <hasService rdf:resource="info:fedora/uofm:mods2htmlSdef" xmlns="info:fedora/fedora-system:def/model#"/>
+          </rdf:Description>
+        </rdf:RDF>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-09-09T22:03:46.665Z" ID="RELS-EXT.4"
+      LABEL="Fedora Object-to-Object Relationship Metadata" MIMETYPE="text/xml" SIZE="714">
+      <foxml:xmlContent>
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+          <rdf:Description rdf:about="info:fedora/uofm:compoundHighResImage">
+            <hasModel rdf:resource="info:fedora/fedora-system:ContentModel-3.0" xmlns="info:fedora/fedora-system:def/model#"/>
+            <hasService rdf:resource="info:fedora/ilives:jp2Sdef" xmlns="info:fedora/fedora-system:def/model#"/>
+            <hasService rdf:resource="info:fedora/uofm:mods2htmlSdef" xmlns="info:fedora/fedora-system:def/model#"/>
+            <hasService rdf:resource="info:fedora/ilives:tei2htmlSdef" xmlns="info:fedora/fedora-system:def/model#"/>
+          </rdf:Description>
+        </rdf:RDF>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-09-14T00:38:06.203Z" ID="RELS-EXT.5"
+      LABEL="Fedora Object-to-Object Relationship Metadata" MIMETYPE="text/xml" SIZE="536">
+      <foxml:xmlContent>
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+          <rdf:Description rdf:about="info:fedora/uofm:compoundHighResImage">
+            <hasModel rdf:resource="info:fedora/fedora-system:ContentModel-3.0" xmlns="info:fedora/fedora-system:def/model#"/>
+            <hasService rdf:resource="info:fedora/ilives:jp2Sdef" xmlns="info:fedora/fedora-system:def/model#"/>
+            <hasService rdf:resource="info:fedora/uofm:mods2htmlSdef" xmlns="info:fedora/fedora-system:def/model#"/>
+          </rdf:Description>
+        </rdf:RDF>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-09-21T13:07:39.768Z" ID="RELS-EXT.6"
+      LABEL="Fedora Object-to-Object Relationship Metadata" MIMETYPE="text/xml" SIZE="656">
+      <foxml:xmlContent>
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+          <rdf:Description rdf:about="info:fedora/uofm:compoundHighResImage">
+            <hasModel rdf:resource="info:fedora/fedora-system:ContentModel-3.0" xmlns="info:fedora/fedora-system:def/model#"/>
+            <hasService rdf:resource="info:fedora/ilives:jp2Sdef" xmlns="info:fedora/fedora-system:def/model#"/>
+            <hasService rdf:resource="info:fedora/ilives:viewerSdef" xmlns="info:fedora/fedora-system:def/model#"/>
+            <hasService rdf:resource="info:fedora/uofm:mods2htmlSdef" xmlns="info:fedora/fedora-system:def/model#"/>
+          </rdf:Description>
+        </rdf:RDF>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+  </foxml:datastream>
+  <foxml:datastream CONTROL_GROUP="X" ID="ISLANDORACM" STATE="A" VERSIONABLE="true">
+    <foxml:datastreamVersion CREATED="2010-09-01T21:45:14.877Z" ID="ISLANDORACM.0"
+      LABEL="Compound High Resolution Image" MIMETYPE="text/xml" SIZE="13492">
+      <foxml:xmlContent>
+        <content_model name="Compound High Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>image/tiff</type>
+            <type>image/tif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>image/tif</applies_to>
+              <applies_to>image/tiff</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">150</parameter>
+                    <parameter name="preview">TRUE</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm" method="buildQDCForm"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>Please select a file to ingest.  </description>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>A descriptive title of the object.</description>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>Please enter a standard number assigned to the resource.  This field is optional, as an identifier in the Handle system will be automatically assigned.</description>
+              </element>
+              <element label="Format" name="mods_format" required="true" type="select">
+                <description>Choose the format of the original item that was digitized.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+                <authoritative_list>
+                  <item>text</item>
+                  <item>cartographic</item>
+                  <item>notated music</item>
+                  <item>sound recording</item>
+                  <item>sound recording - musical</item>
+                  <item>sound-recording - non musical</item>
+                  <item>still image</item>
+                  <item>moving image</item>
+                  <item>three dimensional object</item>
+                  <item>software</item>
+                  <item>multimedia</item>
+                  <item>mixed material</item>
+                </authoritative_list>
+              </element>
+              <element label="Description" name="mods_description" required="true" type="textarea">
+                <description>A summary of the content of the resource.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Rights" name="mods_rights" required="true" type="textarea">
+                <description>Information about intellectual property rights, copyright, and various property rights.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Note" name="mods_note" required="false" type="textarea">
+                <description>Add a note about the digital object.</description>
+              </element>
+              <element label="Subject(s)" name="subject" required="false" type="fieldset">
+                <description>&lt;b&gt;&lt;font color="red"&gt;*&lt;/font&gt;&lt;/b&gt; At least one subject is required.  Please expand the appropriate fieldset(s) below and fill in the necessary information. </description>
+              </element>
+              <element label="Spatial" name="subject][place" required="false" type="fieldset">
+                <description>Is the digital object about a place?  If yes, then fill in to the most specific level that the object is about.</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Country" name="subject][place][mods_country" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete_gacs</parameter>
+                </parameters>
+              </element>
+              <element label="State/Province" name="subject][place][mods_province" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete_gacs</parameter>
+                </parameters>
+              </element>
+              <element label="City" name="subject][place][mods_city" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Temporal" name="subject][time" required="false" type="fieldset">
+                <description>Is the digital object about a time? If yes then fill in to the most specific level that the object is about.</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Century" name="subject][time][mods_century" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Decade" name="subject][time][mods_decade" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Year" name="subject][time][mods_year" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Person" name="subject][person" required="false" type="fieldset">
+                <description>Is the digital object about a person? If yes then please include:</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="First Name" name="subject][person][mods_fname" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Last Name" name="subject][person][mods_lname" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Topic" name="subject][topic" required="false" type="fieldset">
+                <description>Is the digital object about a thing?</description>
+                <parameters>
+                  <parameter name="#collapsed">TRUE</parameter>
+                  <parameter name="#collapsible">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Topics" name="subject][topic][mods_topics" required="false" type="list">
+                <description>Please enter a semicolon separated list of topics, or enter then one at a time and press enter between each.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Authority" name="subject][topic][mods_topicAuthority" required="false" type="other_select">
+                <description>Please select the authority from which the terms below originate.</description>
+                <authoritative_list>
+                  <item field="Library of Congress Subject Headings">lcsh</item>
+                </authoritative_list>
+              </element>
+              <element label="Title" name="subject][title" required="false" type="fieldset">
+                <description>Is the digital object about another title? </description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Title" name="subject][title][mods_subjtitle" required="false" type="textfield">
+                <description>The other title that this object is about.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Language(s)" name="mods_language" required="false" type="list">
+                <description>Please identify the language(s) of the resource.  Find as you type.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete_language</parameter>
+                </parameters>
+              </element>
+              <element label="Entities" name="mods_people" required="false" type="people">
+                <description>Please enter a list of entities that are related to this object by the specified roles.</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Physical Location" name="physlocation" required="false" type="fieldset">
+                <description>Physical location of the object.</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Physical Location" name="physlocation][mods_physicalLocation" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Shelf Locator" name="physlocation][mods_shelfLocator" required="false" type="textfield">
+                <description>optional.  eg Archives Number.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Publication/Origin Information" name="pubinfo" required="false" type="fieldset">
+                <description>Enter information if applicable about the publication/release/copyright of the original (not the digitized) object.</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Place" name="pubinfo][mods_pubinfo_place" required="false" type="textfield"/>
+              <element label="Publisher" name="pubinfo][mods_pubinfo_publisher" required="false" type="textfield"/>
+              <element label="Edition" name="pubinfo][mods_pubinfo_edition" required="false" type="textfield"/>
+              <element label="Date" name="pubinfo][mods_pubinfo_date" required="false" type="datepicker"/>
+              <element label="Date Type" name="pubinfo][mods_pubinfo_dateType" required="false" type="other_select">
+                <authoritative_list>
+                  <item>issued</item>
+                  <item>created</item>
+                  <item>captured</item>
+                  <item>copyright</item>
+                </authoritative_list>
+              </element>
+              <element label="Journal Frequency" name="pubinfo][mods_pubinfo_journalFreq" required="false" type="textfield">
+                <description>The frequency that this journal is published. (Leave blank for monographic issuance).</description>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="ShowSlideStreamsInFieldSets" file="plugins/slide_viewer.inc" method="showJPG"/>
+            </datastream>
+          </datastreams>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-09-01T21:46:17.427Z" ID="ISLANDORACM.1" LABEL="" MIMETYPE="text/xml" SIZE="12521">
+      <foxml:xmlContent>
+        <content_model name="Compound High Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>image/tiff</type>
+            <type>image/tif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>image/tif</applies_to>
+              <applies_to>image/tiff</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">150</parameter>
+                    <parameter name="preview">TRUE</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm" method="buildQDCForm"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>Please select a file to ingest.  </description>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>A descriptive title of the object.</description>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>Please enter a standard number assigned to the resource.  This field is optional, as an identifier in the Handle system will be automatically assigned.</description>
+              </element>
+              <element label="Description" name="mods_description" required="true" type="textarea">
+                <description>A summary of the content of the resource.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Rights" name="mods_rights" required="true" type="textarea">
+                <description>Information about intellectual property rights, copyright, and various property rights.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Note" name="mods_note" required="false" type="textarea">
+                <description>Add a note about the digital object.</description>
+              </element>
+              <element label="Subject(s)" name="subject" required="false" type="fieldset">
+                <description>&lt;b&gt;&lt;font color="red"&gt;*&lt;/font&gt;&lt;/b&gt; At least one subject is required.  Please expand the appropriate fieldset(s) below and fill in the necessary information. </description>
+              </element>
+              <element label="Spatial" name="subject][place" required="false" type="fieldset">
+                <description>Is the digital object about a place?  If yes, then fill in to the most specific level that the object is about.</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Country" name="subject][place][mods_country" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete_gacs</parameter>
+                </parameters>
+              </element>
+              <element label="State/Province" name="subject][place][mods_province" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete_gacs</parameter>
+                </parameters>
+              </element>
+              <element label="City" name="subject][place][mods_city" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Temporal" name="subject][time" required="false" type="fieldset">
+                <description>Is the digital object about a time? If yes then fill in to the most specific level that the object is about.</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Century" name="subject][time][mods_century" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Decade" name="subject][time][mods_decade" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Year" name="subject][time][mods_year" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Person" name="subject][person" required="false" type="fieldset">
+                <description>Is the digital object about a person? If yes then please include:</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="First Name" name="subject][person][mods_fname" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Last Name" name="subject][person][mods_lname" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Topic" name="subject][topic" required="false" type="fieldset">
+                <description>Is the digital object about a thing?</description>
+                <parameters>
+                  <parameter name="#collapsed">TRUE</parameter>
+                  <parameter name="#collapsible">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Topics" name="subject][topic][mods_topics" required="false" type="list">
+                <description>Please enter a semicolon separated list of topics, or enter then one at a time and press enter between each.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Authority" name="subject][topic][mods_topicAuthority" required="false" type="other_select">
+                <description>Please select the authority from which the terms below originate.</description>
+                <authoritative_list>
+                  <item field="Library of Congress Subject Headings">lcsh</item>
+                </authoritative_list>
+              </element>
+              <element label="Title" name="subject][title" required="false" type="fieldset">
+                <description>Is the digital object about another title? </description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Title" name="subject][title][mods_subjtitle" required="false" type="textfield">
+                <description>The other title that this object is about.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Language(s)" name="mods_language" required="false" type="list">
+                <description>Please identify the language(s) of the resource.  Find as you type.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete_language</parameter>
+                </parameters>
+              </element>
+              <element label="Entities" name="mods_people" required="false" type="people">
+                <description>Please enter a list of entities that are related to this object by the specified roles.</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Physical Location" name="physlocation" required="false" type="fieldset">
+                <description>Physical location of the object.</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Physical Location" name="physlocation][mods_physicalLocation" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Shelf Locator" name="physlocation][mods_shelfLocator" required="false" type="textfield">
+                <description>optional.  eg Archives Number.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Publication/Origin Information" name="pubinfo" required="false" type="fieldset">
+                <description>Enter information if applicable about the publication/release/copyright of the original (not the digitized) object.</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Place" name="pubinfo][mods_pubinfo_place" required="false" type="textfield"/>
+              <element label="Publisher" name="pubinfo][mods_pubinfo_publisher" required="false" type="textfield"/>
+              <element label="Edition" name="pubinfo][mods_pubinfo_edition" required="false" type="textfield"/>
+              <element label="Date" name="pubinfo][mods_pubinfo_date" required="false" type="datepicker"/>
+              <element label="Date Type" name="pubinfo][mods_pubinfo_dateType" required="false" type="other_select">
+                <authoritative_list>
+                  <item>issued</item>
+                  <item>created</item>
+                  <item>captured</item>
+                  <item>copyright</item>
+                </authoritative_list>
+              </element>
+              <element label="Journal Frequency" name="pubinfo][mods_pubinfo_journalFreq" required="false" type="textfield">
+                <description>The frequency that this journal is published. (Leave blank for monographic issuance).</description>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="ShowSlideStreamsInFieldSets" file="plugins/slide_viewer.inc" method="showJPG"/>
+            </datastream>
+          </datastreams>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-09-01T21:46:32.529Z" ID="ISLANDORACM.2" LABEL="" MIMETYPE="text/xml" SIZE="12155">
+      <foxml:xmlContent>
+        <content_model name="Compound High Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>image/tiff</type>
+            <type>image/tif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>image/tif</applies_to>
+              <applies_to>image/tiff</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">150</parameter>
+                    <parameter name="preview">TRUE</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm" method="buildQDCForm"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>Please select a file to ingest.  </description>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>A descriptive title of the object.</description>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>Please enter a standard number assigned to the resource.  This field is optional, as an identifier in the Handle system will be automatically assigned.</description>
+              </element>
+              <element label="Description" name="mods_description" required="true" type="textarea">
+                <description>A summary of the content of the resource.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Note" name="mods_note" required="false" type="textarea">
+                <description>Add a note about the digital object.</description>
+              </element>
+              <element label="Subject(s)" name="subject" required="false" type="fieldset">
+                <description>&lt;b&gt;&lt;font color="red"&gt;*&lt;/font&gt;&lt;/b&gt; At least one subject is required.  Please expand the appropriate fieldset(s) below and fill in the necessary information. </description>
+              </element>
+              <element label="Spatial" name="subject][place" required="false" type="fieldset">
+                <description>Is the digital object about a place?  If yes, then fill in to the most specific level that the object is about.</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Country" name="subject][place][mods_country" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete_gacs</parameter>
+                </parameters>
+              </element>
+              <element label="State/Province" name="subject][place][mods_province" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete_gacs</parameter>
+                </parameters>
+              </element>
+              <element label="City" name="subject][place][mods_city" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Temporal" name="subject][time" required="false" type="fieldset">
+                <description>Is the digital object about a time? If yes then fill in to the most specific level that the object is about.</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Century" name="subject][time][mods_century" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Decade" name="subject][time][mods_decade" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Year" name="subject][time][mods_year" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Person" name="subject][person" required="false" type="fieldset">
+                <description>Is the digital object about a person? If yes then please include:</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="First Name" name="subject][person][mods_fname" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Last Name" name="subject][person][mods_lname" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Topic" name="subject][topic" required="false" type="fieldset">
+                <description>Is the digital object about a thing?</description>
+                <parameters>
+                  <parameter name="#collapsed">TRUE</parameter>
+                  <parameter name="#collapsible">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Topics" name="subject][topic][mods_topics" required="false" type="list">
+                <description>Please enter a semicolon separated list of topics, or enter then one at a time and press enter between each.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Authority" name="subject][topic][mods_topicAuthority" required="false" type="other_select">
+                <description>Please select the authority from which the terms below originate.</description>
+                <authoritative_list>
+                  <item field="Library of Congress Subject Headings">lcsh</item>
+                </authoritative_list>
+              </element>
+              <element label="Title" name="subject][title" required="false" type="fieldset">
+                <description>Is the digital object about another title? </description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Title" name="subject][title][mods_subjtitle" required="false" type="textfield">
+                <description>The other title that this object is about.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Language(s)" name="mods_language" required="false" type="list">
+                <description>Please identify the language(s) of the resource.  Find as you type.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete_language</parameter>
+                </parameters>
+              </element>
+              <element label="Entities" name="mods_people" required="false" type="people">
+                <description>Please enter a list of entities that are related to this object by the specified roles.</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Physical Location" name="physlocation" required="false" type="fieldset">
+                <description>Physical location of the object.</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Physical Location" name="physlocation][mods_physicalLocation" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Shelf Locator" name="physlocation][mods_shelfLocator" required="false" type="textfield">
+                <description>optional.  eg Archives Number.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Publication/Origin Information" name="pubinfo" required="false" type="fieldset">
+                <description>Enter information if applicable about the publication/release/copyright of the original (not the digitized) object.</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Place" name="pubinfo][mods_pubinfo_place" required="false" type="textfield"/>
+              <element label="Publisher" name="pubinfo][mods_pubinfo_publisher" required="false" type="textfield"/>
+              <element label="Edition" name="pubinfo][mods_pubinfo_edition" required="false" type="textfield"/>
+              <element label="Date" name="pubinfo][mods_pubinfo_date" required="false" type="datepicker"/>
+              <element label="Date Type" name="pubinfo][mods_pubinfo_dateType" required="false" type="other_select">
+                <authoritative_list>
+                  <item>issued</item>
+                  <item>created</item>
+                  <item>captured</item>
+                  <item>copyright</item>
+                </authoritative_list>
+              </element>
+              <element label="Journal Frequency" name="pubinfo][mods_pubinfo_journalFreq" required="false" type="textfield">
+                <description>The frequency that this journal is published. (Leave blank for monographic issuance).</description>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="ShowSlideStreamsInFieldSets" file="plugins/slide_viewer.inc" method="showJPG"/>
+            </datastream>
+          </datastreams>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-09-01T21:46:42.281Z" ID="ISLANDORACM.3" LABEL="" MIMETYPE="text/xml" SIZE="11963">
+      <foxml:xmlContent>
+        <content_model name="Compound High Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>image/tiff</type>
+            <type>image/tif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>image/tif</applies_to>
+              <applies_to>image/tiff</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">150</parameter>
+                    <parameter name="preview">TRUE</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm" method="buildQDCForm"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>Please select a file to ingest.  </description>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>A descriptive title of the object.</description>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>Please enter a standard number assigned to the resource.  This field is optional, as an identifier in the Handle system will be automatically assigned.</description>
+              </element>
+              <element label="Description" name="mods_description" required="true" type="textarea">
+                <description>A summary of the content of the resource.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Subject(s)" name="subject" required="false" type="fieldset">
+                <description>&lt;b&gt;&lt;font color="red"&gt;*&lt;/font&gt;&lt;/b&gt; At least one subject is required.  Please expand the appropriate fieldset(s) below and fill in the necessary information. </description>
+              </element>
+              <element label="Spatial" name="subject][place" required="false" type="fieldset">
+                <description>Is the digital object about a place?  If yes, then fill in to the most specific level that the object is about.</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Country" name="subject][place][mods_country" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete_gacs</parameter>
+                </parameters>
+              </element>
+              <element label="State/Province" name="subject][place][mods_province" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete_gacs</parameter>
+                </parameters>
+              </element>
+              <element label="City" name="subject][place][mods_city" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Temporal" name="subject][time" required="false" type="fieldset">
+                <description>Is the digital object about a time? If yes then fill in to the most specific level that the object is about.</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Century" name="subject][time][mods_century" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Decade" name="subject][time][mods_decade" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Year" name="subject][time][mods_year" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Person" name="subject][person" required="false" type="fieldset">
+                <description>Is the digital object about a person? If yes then please include:</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="First Name" name="subject][person][mods_fname" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Last Name" name="subject][person][mods_lname" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Topic" name="subject][topic" required="false" type="fieldset">
+                <description>Is the digital object about a thing?</description>
+                <parameters>
+                  <parameter name="#collapsed">TRUE</parameter>
+                  <parameter name="#collapsible">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Topics" name="subject][topic][mods_topics" required="false" type="list">
+                <description>Please enter a semicolon separated list of topics, or enter then one at a time and press enter between each.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Authority" name="subject][topic][mods_topicAuthority" required="false" type="other_select">
+                <description>Please select the authority from which the terms below originate.</description>
+                <authoritative_list>
+                  <item field="Library of Congress Subject Headings">lcsh</item>
+                </authoritative_list>
+              </element>
+              <element label="Title" name="subject][title" required="false" type="fieldset">
+                <description>Is the digital object about another title? </description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Title" name="subject][title][mods_subjtitle" required="false" type="textfield">
+                <description>The other title that this object is about.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Language(s)" name="mods_language" required="false" type="list">
+                <description>Please identify the language(s) of the resource.  Find as you type.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete_language</parameter>
+                </parameters>
+              </element>
+              <element label="Entities" name="mods_people" required="false" type="people">
+                <description>Please enter a list of entities that are related to this object by the specified roles.</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Physical Location" name="physlocation" required="false" type="fieldset">
+                <description>Physical location of the object.</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Physical Location" name="physlocation][mods_physicalLocation" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Shelf Locator" name="physlocation][mods_shelfLocator" required="false" type="textfield">
+                <description>optional.  eg Archives Number.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Publication/Origin Information" name="pubinfo" required="false" type="fieldset">
+                <description>Enter information if applicable about the publication/release/copyright of the original (not the digitized) object.</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Place" name="pubinfo][mods_pubinfo_place" required="false" type="textfield"/>
+              <element label="Publisher" name="pubinfo][mods_pubinfo_publisher" required="false" type="textfield"/>
+              <element label="Edition" name="pubinfo][mods_pubinfo_edition" required="false" type="textfield"/>
+              <element label="Date" name="pubinfo][mods_pubinfo_date" required="false" type="datepicker"/>
+              <element label="Date Type" name="pubinfo][mods_pubinfo_dateType" required="false" type="other_select">
+                <authoritative_list>
+                  <item>issued</item>
+                  <item>created</item>
+                  <item>captured</item>
+                  <item>copyright</item>
+                </authoritative_list>
+              </element>
+              <element label="Journal Frequency" name="pubinfo][mods_pubinfo_journalFreq" required="false" type="textfield">
+                <description>The frequency that this journal is published. (Leave blank for monographic issuance).</description>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="ShowSlideStreamsInFieldSets" file="plugins/slide_viewer.inc" method="showJPG"/>
+            </datastream>
+          </datastreams>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-09-01T21:46:52.577Z" ID="ISLANDORACM.4" LABEL="" MIMETYPE="text/xml" SIZE="11613">
+      <foxml:xmlContent>
+        <content_model name="Compound High Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>image/tiff</type>
+            <type>image/tif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>image/tif</applies_to>
+              <applies_to>image/tiff</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">150</parameter>
+                    <parameter name="preview">TRUE</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm" method="buildQDCForm"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>Please select a file to ingest.  </description>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>A descriptive title of the object.</description>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>Please enter a standard number assigned to the resource.  This field is optional, as an identifier in the Handle system will be automatically assigned.</description>
+              </element>
+              <element label="Description" name="mods_description" required="true" type="textarea">
+                <description>A summary of the content of the resource.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Spatial" name="subject][place" required="false" type="fieldset">
+                <description>Is the digital object about a place?  If yes, then fill in to the most specific level that the object is about.</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Country" name="subject][place][mods_country" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete_gacs</parameter>
+                </parameters>
+              </element>
+              <element label="State/Province" name="subject][place][mods_province" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete_gacs</parameter>
+                </parameters>
+              </element>
+              <element label="City" name="subject][place][mods_city" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Temporal" name="subject][time" required="false" type="fieldset">
+                <description>Is the digital object about a time? If yes then fill in to the most specific level that the object is about.</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Century" name="subject][time][mods_century" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Decade" name="subject][time][mods_decade" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Year" name="subject][time][mods_year" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Person" name="subject][person" required="false" type="fieldset">
+                <description>Is the digital object about a person? If yes then please include:</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="First Name" name="subject][person][mods_fname" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Last Name" name="subject][person][mods_lname" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Topic" name="subject][topic" required="false" type="fieldset">
+                <description>Is the digital object about a thing?</description>
+                <parameters>
+                  <parameter name="#collapsed">TRUE</parameter>
+                  <parameter name="#collapsible">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Topics" name="subject][topic][mods_topics" required="false" type="list">
+                <description>Please enter a semicolon separated list of topics, or enter then one at a time and press enter between each.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Authority" name="subject][topic][mods_topicAuthority" required="false" type="other_select">
+                <description>Please select the authority from which the terms below originate.</description>
+                <authoritative_list>
+                  <item field="Library of Congress Subject Headings">lcsh</item>
+                </authoritative_list>
+              </element>
+              <element label="Title" name="subject][title" required="false" type="fieldset">
+                <description>Is the digital object about another title? </description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Title" name="subject][title][mods_subjtitle" required="false" type="textfield">
+                <description>The other title that this object is about.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Language(s)" name="mods_language" required="false" type="list">
+                <description>Please identify the language(s) of the resource.  Find as you type.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete_language</parameter>
+                </parameters>
+              </element>
+              <element label="Entities" name="mods_people" required="false" type="people">
+                <description>Please enter a list of entities that are related to this object by the specified roles.</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Physical Location" name="physlocation" required="false" type="fieldset">
+                <description>Physical location of the object.</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Physical Location" name="physlocation][mods_physicalLocation" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Shelf Locator" name="physlocation][mods_shelfLocator" required="false" type="textfield">
+                <description>optional.  eg Archives Number.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Publication/Origin Information" name="pubinfo" required="false" type="fieldset">
+                <description>Enter information if applicable about the publication/release/copyright of the original (not the digitized) object.</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Place" name="pubinfo][mods_pubinfo_place" required="false" type="textfield"/>
+              <element label="Publisher" name="pubinfo][mods_pubinfo_publisher" required="false" type="textfield"/>
+              <element label="Edition" name="pubinfo][mods_pubinfo_edition" required="false" type="textfield"/>
+              <element label="Date" name="pubinfo][mods_pubinfo_date" required="false" type="datepicker"/>
+              <element label="Date Type" name="pubinfo][mods_pubinfo_dateType" required="false" type="other_select">
+                <authoritative_list>
+                  <item>issued</item>
+                  <item>created</item>
+                  <item>captured</item>
+                  <item>copyright</item>
+                </authoritative_list>
+              </element>
+              <element label="Journal Frequency" name="pubinfo][mods_pubinfo_journalFreq" required="false" type="textfield">
+                <description>The frequency that this journal is published. (Leave blank for monographic issuance).</description>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="ShowSlideStreamsInFieldSets" file="plugins/slide_viewer.inc" method="showJPG"/>
+            </datastream>
+          </datastreams>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-09-01T21:47:15.302Z" ID="ISLANDORACM.5" LABEL="" MIMETYPE="text/xml" SIZE="11149">
+      <foxml:xmlContent>
+        <content_model name="Compound High Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>image/tiff</type>
+            <type>image/tif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>image/tif</applies_to>
+              <applies_to>image/tiff</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">150</parameter>
+                    <parameter name="preview">TRUE</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm" method="buildQDCForm"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>Please select a file to ingest.  </description>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>A descriptive title of the object.</description>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>Please enter a standard number assigned to the resource.  This field is optional, as an identifier in the Handle system will be automatically assigned.</description>
+              </element>
+              <element label="Description" name="mods_description" required="true" type="textarea">
+                <description>A summary of the content of the resource.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Country" name="subject][place][mods_country" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete_gacs</parameter>
+                </parameters>
+              </element>
+              <element label="State/Province" name="subject][place][mods_province" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete_gacs</parameter>
+                </parameters>
+              </element>
+              <element label="City" name="subject][place][mods_city" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Temporal" name="subject][time" required="false" type="fieldset">
+                <description>Is the digital object about a time? If yes then fill in to the most specific level that the object is about.</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Century" name="subject][time][mods_century" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Decade" name="subject][time][mods_decade" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Year" name="subject][time][mods_year" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Person" name="subject][person" required="false" type="fieldset">
+                <description>Is the digital object about a person? If yes then please include:</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="First Name" name="subject][person][mods_fname" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Last Name" name="subject][person][mods_lname" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Topic" name="subject][topic" required="false" type="fieldset">
+                <description>Is the digital object about a thing?</description>
+                <parameters>
+                  <parameter name="#collapsed">TRUE</parameter>
+                  <parameter name="#collapsible">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Topics" name="subject][topic][mods_topics" required="false" type="list">
+                <description>Please enter a semicolon separated list of topics, or enter then one at a time and press enter between each.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Authority" name="subject][topic][mods_topicAuthority" required="false" type="other_select">
+                <description>Please select the authority from which the terms below originate.</description>
+                <authoritative_list>
+                  <item field="Library of Congress Subject Headings">lcsh</item>
+                </authoritative_list>
+              </element>
+              <element label="Title" name="subject][title" required="false" type="fieldset">
+                <description>Is the digital object about another title? </description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Title" name="subject][title][mods_subjtitle" required="false" type="textfield">
+                <description>The other title that this object is about.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Language(s)" name="mods_language" required="false" type="list">
+                <description>Please identify the language(s) of the resource.  Find as you type.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete_language</parameter>
+                </parameters>
+              </element>
+              <element label="Entities" name="mods_people" required="false" type="people">
+                <description>Please enter a list of entities that are related to this object by the specified roles.</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Physical Location" name="physlocation" required="false" type="fieldset">
+                <description>Physical location of the object.</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Physical Location" name="physlocation][mods_physicalLocation" required="false" type="textfield">
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Shelf Locator" name="physlocation][mods_shelfLocator" required="false" type="textfield">
+                <description>optional.  eg Archives Number.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Publication/Origin Information" name="pubinfo" required="false" type="fieldset">
+                <description>Enter information if applicable about the publication/release/copyright of the original (not the digitized) object.</description>
+                <parameters>
+                  <parameter name="#collapsible">TRUE</parameter>
+                  <parameter name="#collapsed">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Place" name="pubinfo][mods_pubinfo_place" required="false" type="textfield"/>
+              <element label="Publisher" name="pubinfo][mods_pubinfo_publisher" required="false" type="textfield"/>
+              <element label="Edition" name="pubinfo][mods_pubinfo_edition" required="false" type="textfield"/>
+              <element label="Date" name="pubinfo][mods_pubinfo_date" required="false" type="datepicker"/>
+              <element label="Date Type" name="pubinfo][mods_pubinfo_dateType" required="false" type="other_select">
+                <authoritative_list>
+                  <item>issued</item>
+                  <item>created</item>
+                  <item>captured</item>
+                  <item>copyright</item>
+                </authoritative_list>
+              </element>
+              <element label="Journal Frequency" name="pubinfo][mods_pubinfo_journalFreq" required="false" type="textfield">
+                <description>The frequency that this journal is published. (Leave blank for monographic issuance).</description>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="ShowSlideStreamsInFieldSets" file="plugins/slide_viewer.inc" method="showJPG"/>
+            </datastream>
+          </datastreams>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-09-01T21:48:50.724Z" ID="ISLANDORACM.6" LABEL="" MIMETYPE="text/xml" SIZE="2637">
+      <foxml:xmlContent>
+        <content_model name="Compound High Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>image/tiff</type>
+            <type>image/tif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>image/tif</applies_to>
+              <applies_to>image/tiff</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">150</parameter>
+                    <parameter name="preview">TRUE</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm" method="buildQDCForm"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>Please select a file to ingest.  </description>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>A descriptive title of the object.</description>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>Please enter a standard number assigned to the resource.  This field is optional, as an identifier in the Handle system will be automatically assigned.</description>
+              </element>
+              <element label="Description" name="mods_description" required="true" type="textarea">
+                <description>A summary of the content of the resource.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="ShowSlideStreamsInFieldSets" file="plugins/slide_viewer.inc" method="showJPG"/>
+            </datastream>
+          </datastreams>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-09-01T21:50:25.898Z" ID="ISLANDORACM.7" LABEL="" MIMETYPE="text/xml" SIZE="2948">
+      <foxml:xmlContent>
+        <content_model name="Compound High Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>image/tiff</type>
+            <type>image/tif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>image/tif</applies_to>
+              <applies_to>image/tiff</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">150</parameter>
+                    <parameter name="preview">TRUE</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm" method="buildQDCForm"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>Please select a file to ingest.  </description>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>A descriptive title of the object.</description>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>Please enter a standard number assigned to the resource.  This field is optional, as an identifier in the Handle system will be automatically assigned.</description>
+              </element>
+              <element label="Description" name="mods_description" required="true" type="textarea">
+                <description>A summary of the content of the resource.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Parent Item" name="parent" required="true" type="textfield">
+                <description>The PID of the parent item that this compound image belongs.  All MODS metadata not included in the form below will be inherited by the compound image.</description>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="ShowSlideStreamsInFieldSets" file="plugins/slide_viewer.inc" method="showJPG"/>
+            </datastream>
+          </datastreams>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-09-01T21:58:33.878Z" ID="ISLANDORACM.8" LABEL="" MIMETYPE="text/xml" SIZE="2948">
+      <foxml:xmlContent>
+        <content_model name="Compound High Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>image/tiff</type>
+            <type>image/tif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>image/tif</applies_to>
+              <applies_to>image/tiff</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">150</parameter>
+                    <parameter name="preview">TRUE</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm" method="buildQDCForm"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>Please select a file to ingest.  </description>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>A descriptive title of the object.</description>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>Please enter a standard number assigned to the resource.  This field is optional, as an identifier in the Handle system will be automatically assigned.</description>
+              </element>
+              <element label="Parent Item" name="parent" required="true" type="textfield">
+                <description>The PID of the parent item that this compound image belongs.  All MODS metadata not included in the form below will be inherited by the compound image.</description>
+              </element>
+              <element label="Description" name="mods_description" required="true" type="textarea">
+                <description>A summary of the content of the resource.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="ShowSlideStreamsInFieldSets" file="plugins/slide_viewer.inc" method="showJPG"/>
+            </datastream>
+          </datastreams>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-09-01T21:58:35.491Z" ID="ISLANDORACM.9" LABEL="" MIMETYPE="text/xml" SIZE="2948">
+      <foxml:xmlContent>
+        <content_model name="Compound High Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>image/tiff</type>
+            <type>image/tif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>image/tif</applies_to>
+              <applies_to>image/tiff</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">150</parameter>
+                    <parameter name="preview">TRUE</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm" method="buildQDCForm"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>Please select a file to ingest.  </description>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>A descriptive title of the object.</description>
+              </element>
+              <element label="Parent Item" name="parent" required="true" type="textfield">
+                <description>The PID of the parent item that this compound image belongs.  All MODS metadata not included in the form below will be inherited by the compound image.</description>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>Please enter a standard number assigned to the resource.  This field is optional, as an identifier in the Handle system will be automatically assigned.</description>
+              </element>
+              <element label="Description" name="mods_description" required="true" type="textarea">
+                <description>A summary of the content of the resource.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="ShowSlideStreamsInFieldSets" file="plugins/slide_viewer.inc" method="showJPG"/>
+            </datastream>
+          </datastreams>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-09-01T21:58:36.804Z" ID="ISLANDORACM.10" LABEL="" MIMETYPE="text/xml" SIZE="2948">
+      <foxml:xmlContent>
+        <content_model name="Compound High Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>image/tiff</type>
+            <type>image/tif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>image/tif</applies_to>
+              <applies_to>image/tiff</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">150</parameter>
+                    <parameter name="preview">TRUE</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm" method="buildQDCForm"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>Please select a file to ingest.  </description>
+              </element>
+              <element label="Parent Item" name="parent" required="true" type="textfield">
+                <description>The PID of the parent item that this compound image belongs.  All MODS metadata not included in the form below will be inherited by the compound image.</description>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>A descriptive title of the object.</description>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>Please enter a standard number assigned to the resource.  This field is optional, as an identifier in the Handle system will be automatically assigned.</description>
+              </element>
+              <element label="Description" name="mods_description" required="true" type="textarea">
+                <description>A summary of the content of the resource.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="ShowSlideStreamsInFieldSets" file="plugins/slide_viewer.inc" method="showJPG"/>
+            </datastream>
+          </datastreams>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-09-01T21:58:38.046Z" ID="ISLANDORACM.11" LABEL="" MIMETYPE="text/xml" SIZE="2948">
+      <foxml:xmlContent>
+        <content_model name="Compound High Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>image/tiff</type>
+            <type>image/tif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>image/tif</applies_to>
+              <applies_to>image/tiff</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">150</parameter>
+                    <parameter name="preview">TRUE</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm" method="buildQDCForm"/>
+            <form_elements>
+              <element label="Parent Item" name="parent" required="true" type="textfield">
+                <description>The PID of the parent item that this compound image belongs.  All MODS metadata not included in the form below will be inherited by the compound image.</description>
+              </element>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>Please select a file to ingest.  </description>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>A descriptive title of the object.</description>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>Please enter a standard number assigned to the resource.  This field is optional, as an identifier in the Handle system will be automatically assigned.</description>
+              </element>
+              <element label="Description" name="mods_description" required="true" type="textarea">
+                <description>A summary of the content of the resource.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="ShowSlideStreamsInFieldSets" file="plugins/slide_viewer.inc" method="showJPG"/>
+            </datastream>
+          </datastreams>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-09-01T21:58:42.023Z" ID="ISLANDORACM.12" LABEL="" MIMETYPE="text/xml" SIZE="2948">
+      <foxml:xmlContent>
+        <content_model name="Compound High Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>image/tiff</type>
+            <type>image/tif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>image/tif</applies_to>
+              <applies_to>image/tiff</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">150</parameter>
+                    <parameter name="preview">TRUE</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm" method="buildQDCForm"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>Please select a file to ingest.  </description>
+              </element>
+              <element label="Parent Item" name="parent" required="true" type="textfield">
+                <description>The PID of the parent item that this compound image belongs.  All MODS metadata not included in the form below will be inherited by the compound image.</description>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>A descriptive title of the object.</description>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>Please enter a standard number assigned to the resource.  This field is optional, as an identifier in the Handle system will be automatically assigned.</description>
+              </element>
+              <element label="Description" name="mods_description" required="true" type="textarea">
+                <description>A summary of the content of the resource.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="ShowSlideStreamsInFieldSets" file="plugins/slide_viewer.inc" method="showJPG"/>
+            </datastream>
+          </datastreams>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-09-01T22:01:04.283Z" ID="ISLANDORACM.13" LABEL="" MIMETYPE="text/xml" SIZE="2955">
+      <foxml:xmlContent>
+        <content_model name="Compound High Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>image/tiff</type>
+            <type>image/tif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>image/tif</applies_to>
+              <applies_to>image/tiff</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">150</parameter>
+                    <parameter name="preview">TRUE</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc"
+              handler="handleCompoundModsForm" method="FormBuilder"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>Please select a file to ingest.  </description>
+              </element>
+              <element label="Parent Item" name="parent" required="true" type="textfield">
+                <description>The PID of the parent item that this compound image belongs.  All MODS metadata not included in the form below will be inherited by the compound image.</description>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>A descriptive title of the object.</description>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>Please enter a standard number assigned to the resource.  This field is optional, as an identifier in the Handle system will be automatically assigned.</description>
+              </element>
+              <element label="Description" name="mods_description" required="true" type="textarea">
+                <description>A summary of the content of the resource.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="ShowSlideStreamsInFieldSets" file="plugins/slide_viewer.inc" method="showJPG"/>
+            </datastream>
+          </datastreams>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-09-01T22:11:14.707Z" ID="ISLANDORACM.14" LABEL="" MIMETYPE="text/xml" SIZE="2956">
+      <foxml:xmlContent>
+        <content_model name="Compound High Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>image/tiff</type>
+            <type>image/tif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>image/tif</applies_to>
+              <applies_to>image/tiff</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">150</parameter>
+                    <parameter name="preview">TRUE</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc"
+              handler="handleCompoundModsForm" method="buildQDCForm"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>Please select a file to ingest.  </description>
+              </element>
+              <element label="Parent Item" name="parent" required="true" type="textfield">
+                <description>The PID of the parent item that this compound image belongs.  All MODS metadata not included in the form below will be inherited by the compound image.</description>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>A descriptive title of the object.</description>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>Please enter a standard number assigned to the resource.  This field is optional, as an identifier in the Handle system will be automatically assigned.</description>
+              </element>
+              <element label="Description" name="mods_description" required="true" type="textarea">
+                <description>A summary of the content of the resource.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="ShowSlideStreamsInFieldSets" file="plugins/slide_viewer.inc" method="showJPG"/>
+            </datastream>
+          </datastreams>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-09-03T20:52:11.072Z" ID="ISLANDORACM.15" LABEL="" MIMETYPE="text/xml" SIZE="3116">
+      <foxml:xmlContent>
+        <content_model name="Compound High Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>image/tiff</type>
+            <type>image/tif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>image/tif</applies_to>
+              <applies_to>image/tiff</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">150</parameter>
+                    <parameter name="preview">TRUE</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc"
+              handler="handleCompoundModsForm" method="buildQDCForm"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>Please select a file to ingest.  </description>
+              </element>
+              <element label="Parent Item" name="parent" required="true" type="textfield">
+                <description>The PID of the parent item that this compound image belongs.  All MODS metadata not included in the form below will be inherited by the compound image.</description>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>A descriptive title of the object.</description>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>Please enter a standard number assigned to the resource.  This field is optional, as an identifier in the Handle system will be automatically assigned.</description>
+              </element>
+              <element label="Description" name="mods_description" required="true" type="textarea">
+                <description>A summary of the content of the resource.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="ShowSlideStreamsInFieldSets" file="plugins/slide_viewer.inc" method="showJPG"/>
+              <display_method class="ShowCompoundImages" file="plugins/ShowCompoundImages.inc" method="showParent" module="fedora_repository"/>
+            </datastream>
+          </datastreams>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-09-21T03:46:37.626Z" ID="ISLANDORACM.16" LABEL="" MIMETYPE="text/xml" SIZE="2445">
+      <foxml:xmlContent>
+        <content_model name="Compound High Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>image/tiff</type>
+            <type>image/tif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>image/tif</applies_to>
+              <applies_to>image/tiff</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">150</parameter>
+                    <parameter name="preview">TRUE</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc"
+              handler="handleCompoundModsForm" method="buildQDCForm"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>Please select a file to ingest.  </description>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>A descriptive title of the object.</description>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>Please enter a standard number assigned to the resource.  This field is optional, as an identifier in the Handle system will be automatically assigned.</description>
+              </element>
+              <element label="Description" name="mods_description" required="true" type="textarea">
+                <description>A summary of the content of the resource.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                </parameters>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="ShowSlideStreamsInFieldSets" file="plugins/slide_viewer.inc" method="showJPG"/>
+              <display_method class="ShowCompoundImages" file="plugins/ShowCompoundImages.inc" method="showParent" module="fedora_repository"/>
+            </datastream>
+          </datastreams>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-09-21T03:46:45.329Z" ID="ISLANDORACM.17" LABEL="" MIMETYPE="text/xml" SIZE="2163">
+      <foxml:xmlContent>
+        <content_model name="Compound High Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>image/tiff</type>
+            <type>image/tif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>image/tif</applies_to>
+              <applies_to>image/tiff</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">150</parameter>
+                    <parameter name="preview">TRUE</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc"
+              handler="handleCompoundModsForm" method="buildQDCForm"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>Please select a file to ingest.  </description>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>A descriptive title of the object.</description>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>Please enter a standard number assigned to the resource.  This field is optional, as an identifier in the Handle system will be automatically assigned.</description>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="ShowSlideStreamsInFieldSets" file="plugins/slide_viewer.inc" method="showJPG"/>
+              <display_method class="ShowCompoundImages" file="plugins/ShowCompoundImages.inc" method="showParent" module="fedora_repository"/>
+            </datastream>
+          </datastreams>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-09-21T03:47:46.898Z" ID="ISLANDORACM.18" LABEL="" MIMETYPE="text/xml" SIZE="2182">
+      <foxml:xmlContent>
+        <content_model name="Compound High Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>image/tiff</type>
+            <type>image/tif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>image/tif</applies_to>
+              <applies_to>image/tiff</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">150</parameter>
+                    <parameter name="preview">TRUE</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm"
+              method="buildQDCForm" module="fedora_repository"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>Please select a file to ingest.  </description>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>A descriptive title of the object.</description>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>Please enter a standard number assigned to the resource.  This field is optional, as an identifier in the Handle system will be automatically assigned.</description>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="ShowSlideStreamsInFieldSets" file="plugins/slide_viewer.inc" method="showJPG"/>
+              <display_method class="ShowCompoundImages" file="plugins/ShowCompoundImages.inc" method="showParent" module="fedora_repository"/>
+            </datastream>
+          </datastreams>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-10-26T22:52:05.060Z" ID="ISLANDORACM.19" LABEL="" MIMETYPE="text/xml" SIZE="2363">
+      <foxml:xmlContent>
+        <content_model name="Compound High Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>image/tiff</type>
+            <type>image/tif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>image/tif</applies_to>
+              <applies_to>image/tiff</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">150</parameter>
+                    <parameter name="preview">TRUE</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm"
+              method="buildQDCForm" module="fedora_repository"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>Please select a file to ingest.  </description>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>A descriptive title of the object.</description>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>Please enter a standard number assigned to the resource.  This field is optional, as an identifier in the Handle system will be automatically assigned.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete/identifier_t</parameter>
+                </parameters>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="ShowSlideStreamsInFieldSets" file="plugins/slide_viewer.inc" method="showJPG"/>
+              <display_method class="ShowCompoundImages" file="plugins/ShowCompoundImages.inc" method="showParent" module="fedora_repository"/>
+            </datastream>
+          </datastreams>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-10-26T22:52:25.047Z" ID="ISLANDORACM.20" LABEL="" MIMETYPE="text/xml" SIZE="2539">
+      <foxml:xmlContent>
+        <content_model name="Compound High Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>image/tiff</type>
+            <type>image/tif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>image/tif</applies_to>
+              <applies_to>image/tiff</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">150</parameter>
+                    <parameter name="preview">TRUE</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm"
+              method="buildQDCForm" module="fedora_repository"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>Please select a file to ingest.  </description>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>A descriptive title of the object.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete/title_t</parameter>
+                </parameters>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>Please enter a standard number assigned to the resource.  This field is optional, as an identifier in the Handle system will be automatically assigned.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete/identifier_t</parameter>
+                </parameters>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="ShowSlideStreamsInFieldSets" file="plugins/slide_viewer.inc" method="showJPG"/>
+              <display_method class="ShowCompoundImages" file="plugins/ShowCompoundImages.inc" method="showParent" module="fedora_repository"/>
+            </datastream>
+          </datastreams>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-10-27T00:15:17.642Z" ID="ISLANDORACM.21" LABEL="" MIMETYPE="text/xml" SIZE="2614">
+      <foxml:xmlContent>
+        <content_model name="Compound High Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>image/tiff</type>
+            <type>image/tif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>image/tif</applies_to>
+              <applies_to>image/tiff</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">150</parameter>
+                    <parameter name="preview">TRUE</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm"
+              method="buildQDCForm" module="fedora_repository"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>Please select a file to ingest.  </description>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>A descriptive title of the object.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete/title_t</parameter>
+                  <parameter name="#autocomplete_omit_collection">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>Please enter a standard number assigned to the resource.  This field is optional, as an identifier in the Handle system will be automatically assigned.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete/identifier_t</parameter>
+                </parameters>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="ShowSlideStreamsInFieldSets" file="plugins/slide_viewer.inc" method="showJPG"/>
+              <display_method class="ShowCompoundImages" file="plugins/ShowCompoundImages.inc" method="showParent" module="fedora_repository"/>
+            </datastream>
+          </datastreams>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-10-27T00:15:29.349Z" ID="ISLANDORACM.22" LABEL="" MIMETYPE="text/xml" SIZE="2689">
+      <foxml:xmlContent>
+        <content_model name="Compound High Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>image/tiff</type>
+            <type>image/tif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>image/tif</applies_to>
+              <applies_to>image/tiff</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">150</parameter>
+                    <parameter name="preview">TRUE</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm"
+              method="buildQDCForm" module="fedora_repository"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>Please select a file to ingest.  </description>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>A descriptive title of the object.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete/title_t</parameter>
+                  <parameter name="#autocomplete_omit_collection">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>Please enter a standard number assigned to the resource.  This field is optional, as an identifier in the Handle system will be automatically assigned.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete/identifier_t</parameter>
+                  <parameter name="#autocomplete_omit_collection">TRUE</parameter>
+                </parameters>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="ShowSlideStreamsInFieldSets" file="plugins/slide_viewer.inc" method="showJPG"/>
+              <display_method class="ShowCompoundImages" file="plugins/ShowCompoundImages.inc" method="showParent" module="fedora_repository"/>
+            </datastream>
+          </datastreams>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-11-18T23:27:53.251Z" ID="ISLANDORACM.23" LABEL="" MIMETYPE="text/xml" SIZE="2729">
+      <foxml:xmlContent>
+        <content_model name="Compound High Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>image/tiff</type>
+            <type>image/tif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>image/tif</applies_to>
+              <applies_to>image/tiff</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">150</parameter>
+                    <parameter name="preview">TRUE</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm"
+              method="buildQDCForm" module="fedora_repository"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>Please select a file to ingest.  </description>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>A descriptive title of the object.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete/title_t</parameter>
+                  <parameter name="#autocomplete_omit_collection">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>Please enter a standard number assigned to the resource.  This field is optional, as an identifier in the Handle system will be automatically assigned.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete/identifier_t</parameter>
+                  <parameter name="#autocomplete_omit_collection">TRUE</parameter>
+                </parameters>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="ShowSlideStreamsInFieldSets" file="plugins/slide_viewer.inc" method="showJPG"/>
+              <display_method class="ShowCompoundImages" file="plugins/ShowCompoundImages.inc" method="showParent" module="fedora_repository"/>
+            </datastream>
+            <datastream dsid="TN"/>
+          </datastreams>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-11-18T23:28:00.119Z" ID="ISLANDORACM.24" LABEL="" MIMETYPE="text/xml" SIZE="2770">
+      <foxml:xmlContent>
+        <content_model name="Compound High Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>image/tiff</type>
+            <type>image/tif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>image/tif</applies_to>
+              <applies_to>image/tiff</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">150</parameter>
+                    <parameter name="preview">TRUE</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm"
+              method="buildQDCForm" module="fedora_repository"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>Please select a file to ingest.  </description>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>A descriptive title of the object.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete/title_t</parameter>
+                  <parameter name="#autocomplete_omit_collection">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>Please enter a standard number assigned to the resource.  This field is optional, as an identifier in the Handle system will be automatically assigned.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete/identifier_t</parameter>
+                  <parameter name="#autocomplete_omit_collection">TRUE</parameter>
+                </parameters>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="ShowSlideStreamsInFieldSets" file="plugins/slide_viewer.inc" method="showJPG"/>
+              <display_method class="ShowCompoundImages" file="plugins/ShowCompoundImages.inc" method="showParent" module="fedora_repository"/>
+            </datastream>
+            <datastream dsid="TN"/>
+            <datastream dsid="OBJ"/>
+          </datastreams>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-11-18T23:28:05.820Z" ID="ISLANDORACM.25" LABEL="" MIMETYPE="text/xml" SIZE="2811">
+      <foxml:xmlContent>
+        <content_model name="Compound High Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>image/tiff</type>
+            <type>image/tif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>image/tif</applies_to>
+              <applies_to>image/tiff</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">150</parameter>
+                    <parameter name="preview">TRUE</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm"
+              method="buildQDCForm" module="fedora_repository"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>Please select a file to ingest.  </description>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>A descriptive title of the object.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete/title_t</parameter>
+                  <parameter name="#autocomplete_omit_collection">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>Please enter a standard number assigned to the resource.  This field is optional, as an identifier in the Handle system will be automatically assigned.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete/identifier_t</parameter>
+                  <parameter name="#autocomplete_omit_collection">TRUE</parameter>
+                </parameters>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="ShowSlideStreamsInFieldSets" file="plugins/slide_viewer.inc" method="showJPG"/>
+              <display_method class="ShowCompoundImages" file="plugins/ShowCompoundImages.inc" method="showParent" module="fedora_repository"/>
+            </datastream>
+            <datastream dsid="TN"/>
+            <datastream dsid="OBJ"/>
+            <datastream dsid="JP2"/>
+          </datastreams>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-11-18T23:28:11.469Z" ID="ISLANDORACM.26" LABEL="" MIMETYPE="text/xml" SIZE="2853">
+      <foxml:xmlContent>
+        <content_model name="Compound High Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>image/tiff</type>
+            <type>image/tif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>image/tif</applies_to>
+              <applies_to>image/tiff</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">150</parameter>
+                    <parameter name="preview">TRUE</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm"
+              method="buildQDCForm" module="fedora_repository"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>Please select a file to ingest.  </description>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>A descriptive title of the object.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete/title_t</parameter>
+                  <parameter name="#autocomplete_omit_collection">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>Please enter a standard number assigned to the resource.  This field is optional, as an identifier in the Handle system will be automatically assigned.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete/identifier_t</parameter>
+                  <parameter name="#autocomplete_omit_collection">TRUE</parameter>
+                </parameters>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="ShowSlideStreamsInFieldSets" file="plugins/slide_viewer.inc" method="showJPG"/>
+              <display_method class="ShowCompoundImages" file="plugins/ShowCompoundImages.inc" method="showParent" module="fedora_repository"/>
+            </datastream>
+            <datastream dsid="TN"/>
+            <datastream dsid="OBJ"/>
+            <datastream dsid="JP2"/>
+            <datastream dsid="MODS"/>
+          </datastreams>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-11-21T21:21:02.618Z" ID="ISLANDORACM.27" LABEL="" MIMETYPE="text/xml" SIZE="2893">
+      <foxml:xmlContent>
+        <content_model name="Compound High Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>image/tiff</type>
+            <type>image/tif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>image/tif</applies_to>
+              <applies_to>image/tiff</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">150</parameter>
+                    <parameter name="preview">TRUE</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm"
+              method="buildQDCForm" module="fedora_repository"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>Please select a file to ingest.  </description>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>A descriptive title of the object.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete/title_t</parameter>
+                  <parameter name="#autocomplete_omit_collection">TRUE</parameter>
+                </parameters>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>Please enter a standard number assigned to the resource.  This field is optional, as an identifier in the Handle system will be automatically assigned.</description>
+                <parameters>
+                  <parameter name="#sticky">TRUE</parameter>
+                  <parameter name="#autocomplete_path">autocomplete/identifier_t</parameter>
+                  <parameter name="#autocomplete_omit_collection">TRUE</parameter>
+                </parameters>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="ShowSlideStreamsInFieldSets" file="plugins/slide_viewer.inc" method="showJPG"/>
+              <display_method class="ShowCompoundImages" file="plugins/ShowCompoundImages.inc" method="showParent" module="fedora_repository"/>
+            </datastream>
+            <datastream dsid="TN"/>
+            <datastream dsid="OBJ"/>
+            <datastream dsid="JP2"/>
+            <datastream dsid="MODS"/>
+            <datastream dsid="DC"/>
+          </datastreams>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+  </foxml:datastream>
+  <foxml:datastream CONTROL_GROUP="X" ID="WORKFLOW_TMPL" STATE="A" VERSIONABLE="true">
+    <foxml:datastreamVersion CREATED="2010-09-01T22:43:43.130Z" ID="WORKFLOW_TMPL.0" LABEL="Workflow Template"
+      MIMETYPE="text/xml" SIZE="2595">
+      <foxml:xmlContent>
+        <wf:workflow xmlns:wf="http://www.islandora.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/workflow.xsd">
+          <wf:process id="thumbnail" name="image_resize" state="completed">
+            <wf:dependant>OBJ</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">OBJ</wf:parameter>
+              <wf:parameter name="width">150</wf:parameter>
+              <wf:parameter name="file_ext">jpg</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="medium" name="image_resize" state="waiting">
+            <wf:dependant>OBJ</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">OBJ</wf:parameter>
+              <wf:parameter name="dest_ds">JPG</wf:parameter>
+              <wf:parameter name="width">800</wf:parameter>
+              <wf:parameter name="file_ext">jpg</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="jp2" name="create_jp2" state="waiting">
+            <wf:dependant>FULL_SIZE</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">OBJ</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="jhove" name="jhove" state="waiting">
+            <wf:dependant>OBJ</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">OBJ</wf:parameter>
+              <wf:parameter name="dest_ds">MIX</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="mods" name="mods_extend" state="waiting">
+            <wf:parameters>
+              <wf:parameter name="dsid">MODS</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="dc" name="xslt" state="waiting">
+            <wf:prereq>mods</wf:prereq>
+            <wf:dependant>MODS</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">MODS</wf:parameter>
+              <wf:parameter name="xslt_file">mods_to_dc.xsl</wf:parameter>
+              <wf:parameter name="dest_dsid">DC</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="solr" name="solr_index" state="waiting">
+            <wf:prereq>mods</wf:prereq>
+            <wf:dependant>MODS</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">MODS</wf:parameter>
+              <wf:parameter name="xslt_file">mods-solr.xsl</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+        </wf:workflow>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-10-08T18:57:28.571Z" ID="WORKFLOW_TMPL.1" LABEL="Workflow Template"
+      MIMETYPE="text/xml" SIZE="2201">
+      <foxml:xmlContent>
+        <wf:workflow xmlns:wf="http://www.islandora.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/workflow.xsd">
+          <wf:process id="thumbnail" name="image_resize" state="completed">
+            <wf:dependant>OBJ</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">OBJ</wf:parameter>
+              <wf:parameter name="width">150</wf:parameter>
+              <wf:parameter name="file_ext">jpg</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="medium" name="image_resize" state="waiting">
+            <wf:dependant>OBJ</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">OBJ</wf:parameter>
+              <wf:parameter name="dest_ds">JPG</wf:parameter>
+              <wf:parameter name="width">800</wf:parameter>
+              <wf:parameter name="file_ext">jpg</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="jp2" name="create_jp2" state="waiting">
+            <wf:dependant>FULL_SIZE</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">OBJ</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="jhove" name="jhove" state="waiting">
+            <wf:dependant>OBJ</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">OBJ</wf:parameter>
+              <wf:parameter name="dest_ds">MIX</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="mods" name="mods_extend" state="waiting">
+            <wf:parameters>
+              <wf:parameter name="dsid">MODS</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="dc" name="xslt" state="waiting">
+            <wf:prereq>mods</wf:prereq>
+            <wf:dependant>MODS</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">MODS</wf:parameter>
+              <wf:parameter name="xslt_file">mods_to_dc.xsl</wf:parameter>
+              <wf:parameter name="dest_dsid">DC</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="solr" name="solr_index" state="waiting">
+            <wf:prereq>mods</wf:prereq>
+            <wf:prereq>dc</wf:prereq>
+            <wf:dependant>MODS</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">MODS</wf:parameter>
+              <wf:parameter name="xslt_file">mods-solr.xsl</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+        </wf:workflow>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-10-08T18:57:32.320Z" ID="WORKFLOW_TMPL.2" LABEL="Workflow Template"
+      MIMETYPE="text/xml" SIZE="2201">
+      <foxml:xmlContent>
+        <wf:workflow xmlns:wf="http://www.islandora.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/workflow.xsd">
+          <wf:process id="thumbnail" name="image_resize" state="completed">
+            <wf:dependant>OBJ</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">OBJ</wf:parameter>
+              <wf:parameter name="width">150</wf:parameter>
+              <wf:parameter name="file_ext">jpg</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="medium" name="image_resize" state="waiting">
+            <wf:dependant>OBJ</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">OBJ</wf:parameter>
+              <wf:parameter name="dest_ds">JPG</wf:parameter>
+              <wf:parameter name="width">800</wf:parameter>
+              <wf:parameter name="file_ext">jpg</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="jp2" name="create_jp2" state="waiting">
+            <wf:dependant>FULL_SIZE</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">OBJ</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="jhove" name="jhove" state="waiting">
+            <wf:dependant>OBJ</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">OBJ</wf:parameter>
+              <wf:parameter name="dest_ds">MIX</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="mods" name="mods_extend" state="waiting">
+            <wf:parameters>
+              <wf:parameter name="dsid">MODS</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="dc" name="xslt" state="waiting">
+            <wf:prereq>mods</wf:prereq>
+            <wf:dependant>MODS</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">MODS</wf:parameter>
+              <wf:parameter name="xslt_file">mods_to_dc.xsl</wf:parameter>
+              <wf:parameter name="dest_dsid">DC</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="solr" name="solr_index" state="waiting">
+            <wf:prereq>mods</wf:prereq>
+            <wf:prereq>dc</wf:prereq>
+            <wf:dependant>MODS</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">MODS</wf:parameter>
+              <wf:parameter name="xslt_file">mods-solr.xsl</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+        </wf:workflow>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-10-08T22:17:07.326Z" ID="WORKFLOW_TMPL.3" LABEL="Workflow Template"
+      MIMETYPE="text/xml" SIZE="2239">
+      <foxml:xmlContent>
+        <wf:workflow xmlns:wf="http://www.islandora.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/workflow.xsd">
+          <wf:process id="thumbnail" name="image_resize" state="completed">
+            <wf:dependant>OBJ</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">OBJ</wf:parameter>
+              <wf:parameter name="width">150</wf:parameter>
+              <wf:parameter name="file_ext">jpg</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="medium" name="image_resize" state="waiting">
+            <wf:dependant>OBJ</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">OBJ</wf:parameter>
+              <wf:parameter name="dest_ds">JPG</wf:parameter>
+              <wf:parameter name="width">800</wf:parameter>
+              <wf:parameter name="file_ext">jpg</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="jp2" name="create_jp2" state="waiting">
+            <wf:dependant>FULL_SIZE</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">OBJ</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="jhove" name="jhove" state="waiting">
+            <wf:dependant>OBJ</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">OBJ</wf:parameter>
+              <wf:parameter name="dest_ds">MIX</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="mods" name="mods_extend" state="waiting">
+            <wf:dependant>MODS</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">MODS</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="dc" name="xslt" state="waiting">
+            <wf:prereq>mods</wf:prereq>
+            <wf:dependant>MODS</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">MODS</wf:parameter>
+              <wf:parameter name="xslt_file">mods_to_dc.xsl</wf:parameter>
+              <wf:parameter name="dest_dsid">DC</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="solr" name="solr_index" state="waiting">
+            <wf:prereq>mods</wf:prereq>
+            <wf:prereq>dc</wf:prereq>
+            <wf:dependant>MODS</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">MODS</wf:parameter>
+              <wf:parameter name="xslt_file">mods-solr.xsl</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+        </wf:workflow>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-12-07T18:53:37.509Z" ID="WORKFLOW_TMPL.4" LABEL="Workflow Template"
+      MIMETYPE="text/xml" SIZE="2238">
+      <foxml:xmlContent>
+        <wf:workflow xmlns:wf="http://www.islandora.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/workflow.xsd">
+          <wf:process id="thumbnail" name="image_resize" state="completed">
+            <wf:dependant>OBJ</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">OBJ</wf:parameter>
+              <wf:parameter name="width">150</wf:parameter>
+              <wf:parameter name="file_ext">jpg</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="medium" name="image_resize" state="waiting">
+            <wf:dependant>OBJ</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">OBJ</wf:parameter>
+              <wf:parameter name="dest_ds">JPG</wf:parameter>
+              <wf:parameter name="width">800</wf:parameter>
+              <wf:parameter name="file_ext">jpg</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="jp2" name="create_jp2" state="waiting">
+            <wf:dependant>FULL_SIZE</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">OBJ</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="exif" name="exif" state="waiting">
+            <wf:dependant>OBJ</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">OBJ</wf:parameter>
+              <wf:parameter name="dest_ds">EXIF</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="mods" name="mods_extend" state="waiting">
+            <wf:dependant>MODS</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">MODS</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="dc" name="xslt" state="waiting">
+            <wf:prereq>mods</wf:prereq>
+            <wf:dependant>MODS</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">MODS</wf:parameter>
+              <wf:parameter name="xslt_file">mods_to_dc.xsl</wf:parameter>
+              <wf:parameter name="dest_dsid">DC</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="solr" name="solr_index" state="waiting">
+            <wf:prereq>mods</wf:prereq>
+            <wf:prereq>dc</wf:prereq>
+            <wf:dependant>MODS</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">MODS</wf:parameter>
+              <wf:parameter name="xslt_file">mods-solr.xsl</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+        </wf:workflow>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+  </foxml:datastream>
+</foxml:digitalObject>

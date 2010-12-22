@@ -1,0 +1,1101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foxml:digitalObject PID="uofm:compoundLowResImage" VERSION="1.1" xmlns:foxml="info:fedora/fedora-system:def/foxml#"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="info:fedora/fedora-system:def/foxml# http://www.fedora.info/definitions/1/0/foxml1-1.xsd">
+  <foxml:objectProperties>
+    <foxml:property NAME="info:fedora/fedora-system:def/model#state" VALUE="Active"/>
+    <foxml:property NAME="info:fedora/fedora-system:def/model#label" VALUE="Compound Low Resolution Image"/>
+    <foxml:property NAME="info:fedora/fedora-system:def/model#ownerId" VALUE=""/>
+    <foxml:property NAME="info:fedora/fedora-system:def/model#createdDate" VALUE="2010-11-21T20:08:34.865Z"/>
+    <foxml:property NAME="info:fedora/fedora-system:def/view#lastModifiedDate" VALUE="2010-12-07T18:56:45.123Z"/>
+  </foxml:objectProperties>
+  <foxml:datastream CONTROL_GROUP="X" ID="AUDIT" STATE="A" VERSIONABLE="false">
+    <foxml:datastreamVersion CREATED="2010-11-21T20:08:34.865Z"
+      FORMAT_URI="info:fedora/fedora-system:format/xml.fedora.audit" ID="AUDIT.0" LABEL="Audit Trail for this object" MIMETYPE="text/xml">
+      <foxml:xmlContent>
+        <audit:auditTrail xmlns:audit="info:fedora/fedora-system:def/audit#">
+          <audit:record ID="AUDREC1">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>addDatastream</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>fedoraAdmin</audit:responsibility>
+            <audit:date>2010-11-21T20:09:06.746Z</audit:date>
+            <audit:justification/>
+          </audit:record>
+          <audit:record ID="AUDREC2">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>addDatastream</audit:action>
+            <audit:componentID>WORKFLOW_TMPL</audit:componentID>
+            <audit:responsibility>fedoraAdmin</audit:responsibility>
+            <audit:date>2010-11-21T20:09:32.957Z</audit:date>
+            <audit:justification/>
+          </audit:record>
+          <audit:record ID="AUDREC3">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>addDatastream</audit:action>
+            <audit:componentID>RELS-EXT</audit:componentID>
+            <audit:responsibility>fedoraAdmin</audit:responsibility>
+            <audit:date>2010-11-21T20:09:56.072Z</audit:date>
+            <audit:justification/>
+          </audit:record>
+          <audit:record ID="AUDREC4">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-11-21T20:55:35.728Z</audit:date>
+            <audit:justification>Modified by Islandora API</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC5">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-11-21T20:55:41.810Z</audit:date>
+            <audit:justification>Modified by Islandora API</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC6">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-11-21T20:55:46.912Z</audit:date>
+            <audit:justification>Modified by Islandora API</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC7">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-11-21T20:55:58.968Z</audit:date>
+            <audit:justification>Modified by Islandora API</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC8">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-11-21T20:56:06.439Z</audit:date>
+            <audit:justification>Modified by Islandora API</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC9">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-11-21T20:56:12.392Z</audit:date>
+            <audit:justification>Modified by Islandora API</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC10">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>ISLANDORACM</audit:componentID>
+            <audit:responsibility>umroymr</audit:responsibility>
+            <audit:date>2010-11-21T21:20:42.257Z</audit:date>
+            <audit:justification>Modified by Islandora API</audit:justification>
+          </audit:record>
+          <audit:record ID="AUDREC11">
+            <audit:process type="Fedora API-M"/>
+            <audit:action>modifyDatastreamByValue</audit:action>
+            <audit:componentID>WORKFLOW_TMPL</audit:componentID>
+            <audit:responsibility>fedoraAdmin</audit:responsibility>
+            <audit:date>2010-12-07T18:56:45.123Z</audit:date>
+            <audit:justification/>
+          </audit:record>
+        </audit:auditTrail>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+  </foxml:datastream>
+  <foxml:datastream CONTROL_GROUP="X" ID="DC" STATE="A" VERSIONABLE="true">
+    <foxml:datastreamVersion CREATED="2010-11-21T20:08:34.865Z" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/"
+      ID="DC1.0" LABEL="Dublin Core Record for this object" MIMETYPE="text/xml" SIZE="406">
+      <foxml:xmlContent>
+        <oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/"
+          xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+          <dc:title>Compound Low Resolution Image</dc:title>
+          <dc:identifier>uofm:compoundLowResImage</dc:identifier>
+        </oai_dc:dc>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+  </foxml:datastream>
+  <foxml:datastream CONTROL_GROUP="X" ID="ISLANDORACM" STATE="A" VERSIONABLE="true">
+    <foxml:datastreamVersion CREATED="2010-11-21T20:09:06.746Z" ID="ISLANDORACM.0" LABEL="Islandora Content Model"
+      MIMETYPE="text/xml" SIZE="2978">
+      <foxml:xmlContent>
+        <content_model name="Compound Low Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>
+image/tiff
+</type>
+            <type>
+image/tif
+</type>
+            <type>
+image/jpg
+</type>
+            <type>
+image/jpeg
+</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>
+image/tif
+</applies_to>
+              <applies_to>
+image/tiff
+</applies_to>
+              <applies_to>
+image/jpeg
+</applies_to>
+              <applies_to>
+image/jpg
+</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">
+150
+</parameter>
+                    <parameter name="preview">
+TRUE
+</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm"
+              method="buildQDCForm" module="fedora_repository"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>
+Please select a file to ingest. 
+</description>
+                <parameters>
+                  <parameter name="#exclude_from_edit_metadata">
+TRUE
+</parameter>
+                </parameters>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>
+A descriptive title of the object.
+</description>
+                <parameters>
+                  <parameter name="#edit_metadata_xpath">
+/mods:mods/mods:titleInfo/mods:title
+</parameter>
+                </parameters>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>
+Please enter a standard number assigned to the resource. This field is optional, as an identifier in the Handle system will be automatically assigned.
+</description>
+                <parameters>
+                  <parameter name="#edit_metadata_xpath">
+/mods:mods/mods:identifier[@type='local']
+</parameter>
+                </parameters>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="UofMLowResImageDisplay" file="plugins/UofMLowResImageDisplay.inc"
+                method="showViewer" module="fedora_repository"/>
+            </datastream>
+            <datastream dsid="TN"/>
+            <datastream dsid="OBJ"/>
+            <datastream dsid="MODS"/>
+          </datastreams>
+          <edit_metadata_method class="ModsFormBuilder" dsid="MODS" file="plugins/ModsFormBuilder.inc"
+            handler="handleEditMetadataForm" method="buildEditMetadataForm" module="fedora_repository"/>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-11-21T20:55:35.728Z" ID="ISLANDORACM.1" LABEL="" MIMETYPE="text/xml" SIZE="3005">
+      <foxml:xmlContent>
+        <content_model name="Compound Low Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>
+image/tiff
+</type>
+            <type>
+image/tif
+</type>
+            <type>
+image/jpg
+</type>
+            <type>
+image/jpeg
+</type>
+            <type>image/png</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>
+image/tif
+</applies_to>
+              <applies_to>
+image/tiff
+</applies_to>
+              <applies_to>
+image/jpeg
+</applies_to>
+              <applies_to>
+image/jpg
+</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">
+150
+</parameter>
+                    <parameter name="preview">
+TRUE
+</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm"
+              method="buildQDCForm" module="fedora_repository"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>
+Please select a file to ingest. 
+</description>
+                <parameters>
+                  <parameter name="#exclude_from_edit_metadata">
+TRUE
+</parameter>
+                </parameters>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>
+A descriptive title of the object.
+</description>
+                <parameters>
+                  <parameter name="#edit_metadata_xpath">
+/mods:mods/mods:titleInfo/mods:title
+</parameter>
+                </parameters>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>
+Please enter a standard number assigned to the resource. This field is optional, as an identifier in the Handle system will be automatically assigned.
+</description>
+                <parameters>
+                  <parameter name="#edit_metadata_xpath">
+/mods:mods/mods:identifier[@type='local']
+</parameter>
+                </parameters>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="UofMLowResImageDisplay" file="plugins/UofMLowResImageDisplay.inc"
+                method="showViewer" module="fedora_repository"/>
+            </datastream>
+            <datastream dsid="TN"/>
+            <datastream dsid="OBJ"/>
+            <datastream dsid="MODS"/>
+          </datastreams>
+          <edit_metadata_method class="ModsFormBuilder" dsid="MODS" file="plugins/ModsFormBuilder.inc"
+            handler="handleEditMetadataForm" method="buildEditMetadataForm" module="fedora_repository"/>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-11-21T20:55:41.810Z" ID="ISLANDORACM.2" LABEL="" MIMETYPE="text/xml" SIZE="3032">
+      <foxml:xmlContent>
+        <content_model name="Compound Low Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>
+image/tiff
+</type>
+            <type>
+image/tif
+</type>
+            <type>
+image/jpg
+</type>
+            <type>
+image/jpeg
+</type>
+            <type>image/png</type>
+            <type>image/bmp</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>
+image/tif
+</applies_to>
+              <applies_to>
+image/tiff
+</applies_to>
+              <applies_to>
+image/jpeg
+</applies_to>
+              <applies_to>
+image/jpg
+</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">
+150
+</parameter>
+                    <parameter name="preview">
+TRUE
+</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm"
+              method="buildQDCForm" module="fedora_repository"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>
+Please select a file to ingest. 
+</description>
+                <parameters>
+                  <parameter name="#exclude_from_edit_metadata">
+TRUE
+</parameter>
+                </parameters>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>
+A descriptive title of the object.
+</description>
+                <parameters>
+                  <parameter name="#edit_metadata_xpath">
+/mods:mods/mods:titleInfo/mods:title
+</parameter>
+                </parameters>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>
+Please enter a standard number assigned to the resource. This field is optional, as an identifier in the Handle system will be automatically assigned.
+</description>
+                <parameters>
+                  <parameter name="#edit_metadata_xpath">
+/mods:mods/mods:identifier[@type='local']
+</parameter>
+                </parameters>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="UofMLowResImageDisplay" file="plugins/UofMLowResImageDisplay.inc"
+                method="showViewer" module="fedora_repository"/>
+            </datastream>
+            <datastream dsid="TN"/>
+            <datastream dsid="OBJ"/>
+            <datastream dsid="MODS"/>
+          </datastreams>
+          <edit_metadata_method class="ModsFormBuilder" dsid="MODS" file="plugins/ModsFormBuilder.inc"
+            handler="handleEditMetadataForm" method="buildEditMetadataForm" module="fedora_repository"/>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-11-21T20:55:46.912Z" ID="ISLANDORACM.3" LABEL="" MIMETYPE="text/xml" SIZE="3059">
+      <foxml:xmlContent>
+        <content_model name="Compound Low Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>
+image/tiff
+</type>
+            <type>
+image/tif
+</type>
+            <type>
+image/jpg
+</type>
+            <type>
+image/jpeg
+</type>
+            <type>image/png</type>
+            <type>image/bmp</type>
+            <type>image/gif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>
+image/tif
+</applies_to>
+              <applies_to>
+image/tiff
+</applies_to>
+              <applies_to>
+image/jpeg
+</applies_to>
+              <applies_to>
+image/jpg
+</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">
+150
+</parameter>
+                    <parameter name="preview">
+TRUE
+</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm"
+              method="buildQDCForm" module="fedora_repository"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>
+Please select a file to ingest. 
+</description>
+                <parameters>
+                  <parameter name="#exclude_from_edit_metadata">
+TRUE
+</parameter>
+                </parameters>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>
+A descriptive title of the object.
+</description>
+                <parameters>
+                  <parameter name="#edit_metadata_xpath">
+/mods:mods/mods:titleInfo/mods:title
+</parameter>
+                </parameters>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>
+Please enter a standard number assigned to the resource. This field is optional, as an identifier in the Handle system will be automatically assigned.
+</description>
+                <parameters>
+                  <parameter name="#edit_metadata_xpath">
+/mods:mods/mods:identifier[@type='local']
+</parameter>
+                </parameters>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="UofMLowResImageDisplay" file="plugins/UofMLowResImageDisplay.inc"
+                method="showViewer" module="fedora_repository"/>
+            </datastream>
+            <datastream dsid="TN"/>
+            <datastream dsid="OBJ"/>
+            <datastream dsid="MODS"/>
+          </datastreams>
+          <edit_metadata_method class="ModsFormBuilder" dsid="MODS" file="plugins/ModsFormBuilder.inc"
+            handler="handleEditMetadataForm" method="buildEditMetadataForm" module="fedora_repository"/>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-11-21T20:55:58.968Z" ID="ISLANDORACM.4" LABEL="" MIMETYPE="text/xml" SIZE="3100">
+      <foxml:xmlContent>
+        <content_model name="Compound Low Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>
+image/tiff
+</type>
+            <type>
+image/tif
+</type>
+            <type>
+image/jpg
+</type>
+            <type>
+image/jpeg
+</type>
+            <type>image/png</type>
+            <type>image/bmp</type>
+            <type>image/gif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>
+image/tif
+</applies_to>
+              <applies_to>
+image/tiff
+</applies_to>
+              <applies_to>
+image/jpeg
+</applies_to>
+              <applies_to>
+image/jpg
+</applies_to>
+              <applies_to>image/png</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">
+150
+</parameter>
+                    <parameter name="preview">
+TRUE
+</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm"
+              method="buildQDCForm" module="fedora_repository"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>
+Please select a file to ingest. 
+</description>
+                <parameters>
+                  <parameter name="#exclude_from_edit_metadata">
+TRUE
+</parameter>
+                </parameters>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>
+A descriptive title of the object.
+</description>
+                <parameters>
+                  <parameter name="#edit_metadata_xpath">
+/mods:mods/mods:titleInfo/mods:title
+</parameter>
+                </parameters>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>
+Please enter a standard number assigned to the resource. This field is optional, as an identifier in the Handle system will be automatically assigned.
+</description>
+                <parameters>
+                  <parameter name="#edit_metadata_xpath">
+/mods:mods/mods:identifier[@type='local']
+</parameter>
+                </parameters>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="UofMLowResImageDisplay" file="plugins/UofMLowResImageDisplay.inc"
+                method="showViewer" module="fedora_repository"/>
+            </datastream>
+            <datastream dsid="TN"/>
+            <datastream dsid="OBJ"/>
+            <datastream dsid="MODS"/>
+          </datastreams>
+          <edit_metadata_method class="ModsFormBuilder" dsid="MODS" file="plugins/ModsFormBuilder.inc"
+            handler="handleEditMetadataForm" method="buildEditMetadataForm" module="fedora_repository"/>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-11-21T20:56:06.439Z" ID="ISLANDORACM.5" LABEL="" MIMETYPE="text/xml" SIZE="3141">
+      <foxml:xmlContent>
+        <content_model name="Compound Low Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>
+image/tiff
+</type>
+            <type>
+image/tif
+</type>
+            <type>
+image/jpg
+</type>
+            <type>
+image/jpeg
+</type>
+            <type>image/png</type>
+            <type>image/bmp</type>
+            <type>image/gif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>
+image/tif
+</applies_to>
+              <applies_to>
+image/tiff
+</applies_to>
+              <applies_to>
+image/jpeg
+</applies_to>
+              <applies_to>
+image/jpg
+</applies_to>
+              <applies_to>image/png</applies_to>
+              <applies_to>image/bmp</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">
+150
+</parameter>
+                    <parameter name="preview">
+TRUE
+</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm"
+              method="buildQDCForm" module="fedora_repository"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>
+Please select a file to ingest. 
+</description>
+                <parameters>
+                  <parameter name="#exclude_from_edit_metadata">
+TRUE
+</parameter>
+                </parameters>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>
+A descriptive title of the object.
+</description>
+                <parameters>
+                  <parameter name="#edit_metadata_xpath">
+/mods:mods/mods:titleInfo/mods:title
+</parameter>
+                </parameters>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>
+Please enter a standard number assigned to the resource. This field is optional, as an identifier in the Handle system will be automatically assigned.
+</description>
+                <parameters>
+                  <parameter name="#edit_metadata_xpath">
+/mods:mods/mods:identifier[@type='local']
+</parameter>
+                </parameters>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="UofMLowResImageDisplay" file="plugins/UofMLowResImageDisplay.inc"
+                method="showViewer" module="fedora_repository"/>
+            </datastream>
+            <datastream dsid="TN"/>
+            <datastream dsid="OBJ"/>
+            <datastream dsid="MODS"/>
+          </datastreams>
+          <edit_metadata_method class="ModsFormBuilder" dsid="MODS" file="plugins/ModsFormBuilder.inc"
+            handler="handleEditMetadataForm" method="buildEditMetadataForm" module="fedora_repository"/>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-11-21T20:56:12.392Z" ID="ISLANDORACM.6" LABEL="" MIMETYPE="text/xml" SIZE="3182">
+      <foxml:xmlContent>
+        <content_model name="Compound Low Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>
+image/tiff
+</type>
+            <type>
+image/tif
+</type>
+            <type>
+image/jpg
+</type>
+            <type>
+image/jpeg
+</type>
+            <type>image/png</type>
+            <type>image/bmp</type>
+            <type>image/gif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>
+image/tif
+</applies_to>
+              <applies_to>
+image/tiff
+</applies_to>
+              <applies_to>
+image/jpeg
+</applies_to>
+              <applies_to>
+image/jpg
+</applies_to>
+              <applies_to>image/png</applies_to>
+              <applies_to>image/bmp</applies_to>
+              <applies_to>image/gif</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">
+150
+</parameter>
+                    <parameter name="preview">
+TRUE
+</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm"
+              method="buildQDCForm" module="fedora_repository"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>
+Please select a file to ingest. 
+</description>
+                <parameters>
+                  <parameter name="#exclude_from_edit_metadata">
+TRUE
+</parameter>
+                </parameters>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>
+A descriptive title of the object.
+</description>
+                <parameters>
+                  <parameter name="#edit_metadata_xpath">
+/mods:mods/mods:titleInfo/mods:title
+</parameter>
+                </parameters>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>
+Please enter a standard number assigned to the resource. This field is optional, as an identifier in the Handle system will be automatically assigned.
+</description>
+                <parameters>
+                  <parameter name="#edit_metadata_xpath">
+/mods:mods/mods:identifier[@type='local']
+</parameter>
+                </parameters>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="UofMLowResImageDisplay" file="plugins/UofMLowResImageDisplay.inc"
+                method="showViewer" module="fedora_repository"/>
+            </datastream>
+            <datastream dsid="TN"/>
+            <datastream dsid="OBJ"/>
+            <datastream dsid="MODS"/>
+          </datastreams>
+          <edit_metadata_method class="ModsFormBuilder" dsid="MODS" file="plugins/ModsFormBuilder.inc"
+            handler="handleEditMetadataForm" method="buildEditMetadataForm" module="fedora_repository"/>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-11-21T21:20:42.257Z" ID="ISLANDORACM.7" LABEL="" MIMETYPE="text/xml" SIZE="3222">
+      <foxml:xmlContent>
+        <content_model name="Compound Low Resolution Image" xmlns="http://www.islandora.ca"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/islandoracm.xsd">
+          <mimetypes>
+            <type>
+image/tiff
+</type>
+            <type>
+image/tif
+</type>
+            <type>
+image/jpg
+</type>
+            <type>
+image/jpeg
+</type>
+            <type>image/png</type>
+            <type>image/bmp</type>
+            <type>image/gif</type>
+          </mimetypes>
+          <ingest_rules>
+            <rule>
+              <applies_to>
+image/tif
+</applies_to>
+              <applies_to>
+image/tiff
+</applies_to>
+              <applies_to>
+image/jpeg
+</applies_to>
+              <applies_to>
+image/jpg
+</applies_to>
+              <applies_to>image/png</applies_to>
+              <applies_to>image/bmp</applies_to>
+              <applies_to>image/gif</applies_to>
+              <ingest_methods>
+                <ingest_method class="ImageManipulation" dsid="TN" file="plugins/ImageManipulation.inc"
+                  method="createPreview" modified_files_ext="jpg">
+                  <parameters>
+                    <parameter name="width">
+150
+</parameter>
+                    <parameter name="preview">
+TRUE
+</parameter>
+                  </parameters>
+                </ingest_method>
+              </ingest_methods>
+            </rule>
+          </ingest_rules>
+          <ingest_form dsid="MODS" hide_file_chooser="true" page="2" redirect="false">
+            <form_builder_method class="ModsFormBuilder" file="plugins/ModsFormBuilder.inc" handler="handleModsForm"
+              method="buildQDCForm" module="fedora_repository"/>
+            <form_elements>
+              <element label="Ingest File" name="ingest-file-location" required="true" type="filechooser">
+                <description>
+Please select a file to ingest. 
+</description>
+                <parameters>
+                  <parameter name="#exclude_from_edit_metadata">
+TRUE
+</parameter>
+                </parameters>
+              </element>
+              <element label="Title" name="mods_title" required="true" type="textfield">
+                <description>
+A descriptive title of the object.
+</description>
+                <parameters>
+                  <parameter name="#edit_metadata_xpath">
+/mods:mods/mods:titleInfo/mods:title
+</parameter>
+                </parameters>
+              </element>
+              <element label="Identifier" name="mods_identifier" required="false" type="textfield">
+                <description>
+Please enter a standard number assigned to the resource. This field is optional, as an identifier in the Handle system will be automatically assigned.
+</description>
+                <parameters>
+                  <parameter name="#edit_metadata_xpath">
+/mods:mods/mods:identifier[@type='local']
+</parameter>
+                </parameters>
+              </element>
+            </form_elements>
+          </ingest_form>
+          <datastreams>
+            <datastream display_in_fieldset="true" dsid="JPG">
+              <display_method class="UofMLowResImageDisplay" file="plugins/UofMLowResImageDisplay.inc"
+                method="showViewer" module="fedora_repository"/>
+            </datastream>
+            <datastream dsid="TN"/>
+            <datastream dsid="OBJ"/>
+            <datastream dsid="MODS"/>
+            <datastream dsid="DC"/>
+          </datastreams>
+          <edit_metadata_method class="ModsFormBuilder" dsid="MODS" file="plugins/ModsFormBuilder.inc"
+            handler="handleEditMetadataForm" method="buildEditMetadataForm" module="fedora_repository"/>
+        </content_model>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+  </foxml:datastream>
+  <foxml:datastream CONTROL_GROUP="X" ID="WORKFLOW_TMPL" STATE="A" VERSIONABLE="true">
+    <foxml:datastreamVersion CREATED="2010-11-21T20:09:32.957Z" ID="WORKFLOW_TMPL.0" LABEL="Workflow Template"
+      MIMETYPE="text/xml" SIZE="2078">
+      <foxml:xmlContent>
+        <wf:workflow xmlns:wf="http://www.islandora.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/workflow.xsd">
+          <wf:process id="thumbnail" name="image_resize" state="completed">
+            <wf:dependant>
+OBJ
+</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">
+OBJ
+</wf:parameter>
+              <wf:parameter name="width">
+150
+</wf:parameter>
+              <wf:parameter name="file_ext">
+jpg
+</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="medium" name="image_resize" state="waiting">
+            <wf:dependant>
+OBJ
+</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">
+OBJ
+</wf:parameter>
+              <wf:parameter name="dest_ds">
+JPG
+</wf:parameter>
+              <wf:parameter name="width">
+800
+</wf:parameter>
+              <wf:parameter name="file_ext">
+jpg
+</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="jhove" name="jhove" state="waiting">
+            <wf:dependant>
+OBJ
+</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">
+OBJ
+</wf:parameter>
+              <wf:parameter name="dest_ds">
+MIX
+</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="mods" name="mods_extend" state="waiting">
+            <wf:dependant>
+MODS
+</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">
+MODS
+</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="dc" name="xslt" state="waiting">
+            <wf:prereq>
+mods
+</wf:prereq>
+            <wf:dependant>
+MODS
+</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">
+MODS
+</wf:parameter>
+              <wf:parameter name="xslt_file">
+mods_to_dc.xsl
+</wf:parameter>
+              <wf:parameter name="dest_dsid">
+DC
+</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="solr" name="solr_index" state="waiting">
+            <wf:prereq>
+dc
+</wf:prereq>
+            <wf:prereq>
+mods
+</wf:prereq>
+            <wf:dependant>
+MODS
+</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">
+MODS
+</wf:parameter>
+              <wf:parameter name="xslt_file">
+mods-solr.xsl
+</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+        </wf:workflow>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+    <foxml:datastreamVersion CREATED="2010-12-07T18:56:45.123Z" ID="WORKFLOW_TMPL.1" LABEL="Workflow Template"
+      MIMETYPE="text/xml" SIZE="2082">
+      <foxml:xmlContent>
+        <wf:workflow xmlns:wf="http://www.islandora.ca" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.islandora.ca http://localhost/workflow.xsd">
+          <wf:process id="thumbnail" name="image_resize" state="completed">
+            <wf:dependant>OBJ</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">OBJ</wf:parameter>
+              <wf:parameter name="width">100</wf:parameter>
+              <wf:parameter name="height">100</wf:parameter>
+              <wf:parameter name="file_ext">jpg</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="medium" name="image_resize" state="waiting">
+            <wf:dependant>OBJ</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">OBJ</wf:parameter>
+              <wf:parameter name="dest_ds">JPG</wf:parameter>
+              <wf:parameter name="width">800</wf:parameter>
+              <wf:parameter name="file_ext">jpg</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="exif" name="exif" state="waiting">
+            <wf:dependant>OBJ</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">OBJ</wf:parameter>
+              <wf:parameter name="dest_ds">EXIF</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="mods" name="mods_extend" state="waiting">
+            <wf:dependant>MODS</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">MODS</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="dc" name="xslt" state="waiting">
+            <wf:prereq>mods</wf:prereq>
+            <wf:dependant>MODS</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">MODS</wf:parameter>
+              <wf:parameter name="xslt_file">mods_to_dc.xsl</wf:parameter>
+              <wf:parameter name="dest_dsid">DC</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+          <wf:process id="solr" name="solr_index" state="waiting">
+            <wf:prereq>dc</wf:prereq>
+            <wf:prereq>mods</wf:prereq>
+            <wf:dependant>MODS</wf:dependant>
+            <wf:parameters>
+              <wf:parameter name="dsid">MODS</wf:parameter>
+              <wf:parameter name="xslt_file">mods-solr.xsl</wf:parameter>
+            </wf:parameters>
+          </wf:process>
+        </wf:workflow>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+  </foxml:datastream>
+  <foxml:datastream CONTROL_GROUP="X" ID="RELS-EXT" STATE="A" VERSIONABLE="true">
+    <foxml:datastreamVersion CREATED="2010-11-21T20:09:56.072Z" ID="RELS-EXT.0"
+      LABEL="Fedora Object-to-Object Relationship Metadata" MIMETYPE="text/xml" SIZE="336">
+      <foxml:xmlContent>
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+          <rdf:Description rdf:about="info:fedora/uofm:compoundLowResImage">
+            <fedora-model:hasModel rdf:resource="info:fedora/fedora-system:ContentModel-3.0" xmlns:fedora-model="info:fedora/fedora-system:def/model#"/>
+          </rdf:Description>
+        </rdf:RDF>
+      </foxml:xmlContent>
+    </foxml:datastreamVersion>
+  </foxml:datastream>
+</foxml:digitalObject>
